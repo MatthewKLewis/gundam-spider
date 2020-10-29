@@ -39,10 +39,18 @@ while i < 307:
             while j < lengthOfLabels:
                 setattr(tempGundam, tagLabels[j].text, tagValues[j].text)
                 j += 1
-            arrayOfObjects.append(tempGundam)
+            arrayOfObjects.append(json.dumps(tempGundam.__dict__, indent=4))
+
+
+f = open('data.txt', 'w')
+f.write('[')
 
 for item in arrayOfObjects:
-    print(item.Classification)
+    f.write(item)
+
+f.write(']')
+f.close()
+print('end')
 
 
 # #Sample page to test data extraction
