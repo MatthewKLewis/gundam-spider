@@ -3,6 +3,7 @@ import urllib
 import re
 import json
 from bs4 import BeautifulSoup
+import time
 
 #initial Beautiful Soup data
 url = 'https://gundam.fandom.com/wiki/List_of_Mobile_Weapons'
@@ -24,27 +25,41 @@ while i < len(soupList):
         urlList.append('https://gundam.fandom.com' + soupList[i])
     i += 1
 
+f = open('urls.txt', 'w')
+
 #Take elements from urlList and append them to urlList2 after removing extraneous letters
 for item in urlList:
     item = item.partition('"')
     urlList2.append(item[0])
-
-#Sample page to test data extraction
-newPage = urllib.request.urlopen(urlList2[200])
-newSoup = BeautifulSoup(newPage, features='lxml')
-
-#extract all divs with the class pi-data-value
-print(urlList2[200])
-infoIwant = newSoup.find_all("div", class_="pi-data-value")
-
-#Take elements from infoIWant and strip the HTML, add to infoIWant2
-for item in infoIwant:
-    infoIWant2.append(item.get_text())
-
-#Write the readable data into a text file
-f = open('data.txt', 'w')
-for item in infoIWant2:
-    f.write(item)
+    f.write(item[0])
+    f.write(',')
 
 f.close()
 print('write complete')
+
+
+
+# #Sample page to test data extraction
+
+# f = open('data.txt', 'w')
+# j = 200
+# while j < 205:
+
+#     print(urlList2[j])
+
+#     newPage = urllib.request.urlopen(urlList2[j])
+
+#     newSoup = BeautifulSoup(newPage, features='lxml')
+
+#     infoIwant = newSoup.find_all("div", class_="pi-data-value", recursive=True)
+    
+#     for item in infoIWant:
+#         f.write(str(item) + '\r\n\r\n\r\n')
+
+#     print(j)
+#     j += 1
+#     time.sleep(5)
+
+
+# f.close()
+# print('write complete')
