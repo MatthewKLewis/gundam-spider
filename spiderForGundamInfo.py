@@ -17,12 +17,12 @@ class Gundam:
         pass
 
 
-f = open('data.txt', 'w')
+f = open('data.txt', 'a')
 
 arrayOfObjects = []
 
-i = 300
-while i < 307:
+i = 0
+while i < 400:
     i += 1
     print(urlData[i])
     tempPage = urllib.request.urlopen(urlData[i])
