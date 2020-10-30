@@ -25,7 +25,7 @@
     "Manga": "MSG: LWCMSGSS: BD(M)",
     "Game": "Mobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam Side Story: The Blue DestinyGundam 0079: The War for EarthMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: CrossfireMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Middle Range Support Mobile Suit",
     "Model Number": "RX-77-2",
     "Official Name": "Guncannon\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3",
@@ -56,7 +56,7 @@
     "Manga": "MSG: OG",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Journey to JaburoMS Saga: A New DawnMobile Suit Gundam: Encounters in SpaceGundam 0079: The War for EarthMobile Suit Gundam: Bonds of the BattlefieldMobile Ops: The One Year WarMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: CrossfireDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "RX-78-2",
     "Official Name": "Gundam\u30ac\u30f3\u30c0\u30e0",
@@ -87,7 +87,7 @@
     "Game": "Gundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New DawnMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: CrossfireDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Mobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageDynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing LinkGundam Versus",
     "Documentary": "Making Gundam: The Inside Story",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79RGM-79S (Commander Type)",
     "Official Name": "GM\u30b8\u30e0",
@@ -118,7 +118,7 @@
     "Manga": "MSG: MSGenGundam LegacyMSCG: SHGundam 0079 - Nightmare of SolomonIGLOO 603MSG \u00c9coleBR 0081: WoVClimax UCMSG-Z: 1/2AS0083: HoSMSG:CDAPOYCMobile Suit Gundam 0083 RebellionKatanaMSG: WFH!Mobile Suit Gundam: After-Jaburo",
     "Game": "Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: CrossfireMobile Ops: The One Year WarMS Saga: A New DawnDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Assault Space Mobile Armor",
     "Model Number": "MA-04X",
     "Official Name": "Zakrello\u30b6\u30af\u30ec\u30ed",
@@ -136,7 +136,7 @@
     "Movie": "Gundam the Ride: A Baoa Qu",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Gihren's AmbitionMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Assault Space Mobile Armor",
     "Model Number": "MA-05",
     "Official Name": "Bigro\u30d3\u30b0\u30ed",
@@ -164,7 +164,7 @@
     "Manga": "Gundam 0079 - Nightmare of SolomonMobile Suit Gundam 0083 RebellionBR 0081: WoVGBF AR",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamGihren's Greed",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Assault Underwater Mobile Armor",
     "Model Number": "MAM-07",
     "Official Name": "Grublo\u30b0\u30e9\u30d6\u30ed",
@@ -184,7 +184,7 @@
     "Manga": "BR 0081: WoV",
     "Game": "Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Anti-Fortress Heavy Assault Space Mobile Armor",
     "Model Number": "MA-08",
     "Official Name": "Big Zam\u30d3\u30b0\u30fb\u30b6\u30e0",
@@ -208,7 +208,7 @@
     "Manga": "MSG: OGGundam 0079 - Nightmare of SolomonEnhanced Human Tale: Another Z Gundam StoryMobile Suit Gundam 0083 Rebellion",
     "Game": "Gundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2Mobile Suit Gundam: Zeonic FrontMS Saga: A New DawnMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Newtype-use Space Mobile Armor",
     "Model Number": "MAN-03",
     "Official Name": "Braw Bro\u30d6\u30e9\u30a6\u30fb\u30d6\u30ed",
@@ -233,7 +233,7 @@
     "Manga": "MSG 0079Thunderbolt: First Seen in Chapter #137",
     "Game": "Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Newtype-use Space Mobile Armor",
     "Model Number": "MAN-08MAN-X8",
     "Official Name": "Elmeth\u30a8\u30eb\u30e1\u30b9",
@@ -263,7 +263,7 @@
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Gihren's AmbitionMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Variation": "Solomon Express",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Aerial Mobile Armor",
     "Model Number": "MAX-03",
     "Official Name": "Adzam\u30a2\u30c3\u30b6\u30e0",
@@ -287,7 +287,7 @@
     "Novel": "Mobile Suit Gundam Side Story: At the Site of the Fallen Colony",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Gihren's GreedMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-05B",
     "Official Name": "Zaku I\u30b6\u30afI",
@@ -317,7 +317,7 @@
     "Manga": "MSG 0099: MCIGLOO 603UC: TNSUC0096LS",
     "Game": "Mobile Suit Gundam Side Story: The Blue DestinyMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Ops: The One Year WarMobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kunio Okawara (MSG)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06F",
     "Official Name": "Zaku II\u91cf\u7523\u578b\u30b6\u30afII",
@@ -346,7 +346,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing Shadow",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam Side Story 0079: Rise From The AshesGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New DawnMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Ground Mobile Suit",
     "Model Number": "MS-06J",
     "Official Name": "Zaku II Ground Type\u9678\u6226\u578b\u30b6\u30afII",
@@ -371,7 +371,7 @@
     "Manga": "Mobile Suit Gundam 0083 RebellionUC: TNSMSG-ZMSB: WI",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Commander-use General-Purpose Mobile Suit",
     "Model Number": "MS-06S",
     "Official Name": "Zaku II Commander Type\u6307\u63ee\u5b98\u7528\u30b6\u30afII",
@@ -399,7 +399,7 @@
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Mobile Suit Gundam Side Story: Missing LinkGundam Battle AssaultGundam Battle Assault 2MS Saga: A New Dawn",
     "Variation": "MSV-R",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Close Quarters Combat Ground Mobile Suit",
     "Model Number": "MS-07B (Production model)YMS-07B (Prototype model)",
     "Official Name": "Gouf\u30b0\u30d5",
@@ -427,7 +427,7 @@
     "Manga": "F90MSG: WFH!MSGTSS: SeanMobile Suit Gundam: After-JaburoGP Bio:BSitS",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: The Blue DestinyMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesGundam 0079: The War for EarthMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Ops: The One Year WarMobile Suit Gundam: Battlefield Record U.C. 0081Dynasty Warriors GundamMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Ground Mobile Suit",
     "Model Number": "MS-09B",
     "Official Name": "Dom\u30c9\u30e0",
@@ -455,7 +455,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing Shadow",
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara (MSG)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Mass Production Space Mobile Suit",
     "Model Number": "MS-09R",
     "Official Name": "Rick Dom\u30ea\u30c3\u30af\u30fb\u30c9\u30e0",
@@ -485,7 +485,7 @@
     "Manga": "F90MSCG: SHAoZ: FoTGundam LegacyMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceSD Gundam G Generation: Monoeye GundamsMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing LinkGundam Assault Survive",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-14A",
     "Official Name": "Gelgoog\u91cf\u7523\u578b\u30b2\u30eb\u30b0\u30b0",
@@ -515,7 +515,7 @@
     "Manga": "0083: HoSGundam LegacyUC: TNS",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Commander-use General-Purpose Mobile Suit",
     "Model Number": "YMS-14MS-14S",
     "Official Name": "Gelgoog Commander Type\u5148\u884c\u91cf\u7523\u578b\u30b2\u30eb\u30b0\u30b0",
@@ -536,7 +536,7 @@
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMS Saga: A New Dawn",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Amphibious Mobile Suit",
     "Model Number": "MSM-03",
     "Official Name": "Gogg\u30b4\u30c3\u30b0",
@@ -562,7 +562,7 @@
     "OVA": "08th MST",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "MSM-04",
     "Official Name": "Acguy\u30a2\u30c3\u30ac\u30a4",
@@ -585,7 +585,7 @@
     "Manga": "MSG: MSGenKatanaMobile Suit Gundam: After-JaburoMSG-AcguyMSG 0079GBD-RZ",
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing LinkGundam Battle AssaultGundam Battle Assault 2",
     "Mechanical Designer": "Kunio Okawara (MSG)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "MSM-07",
     "Official Name": "Z'Gok\u30ba\u30b4\u30c3\u30af\u524d\u671f\u578b",
@@ -611,7 +611,7 @@
     "Manga": "Mobile Suit Gundam AggressorMSCG: Dust",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Commander-use Amphibious Mobile Suit",
     "Model Number": "MSM-07S",
     "Official Name": "Z'Gok Commander Type\u30ba\u30b4\u30c3\u30af\u5f8c\u671f\u578b",
@@ -629,7 +629,7 @@
     "TV Series": "MSG: Episode #29 - #29",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Assault Amphibious Mobile Suit",
     "Model Number": "MSM-10",
     "Official Name": "Zock\u30be\u30c3\u30af",
@@ -652,7 +652,7 @@
     "Manga": "MSG: WFH!MSCG: Dust",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMS Saga: A New Dawn",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Newtype-use Space Mobile Suit",
     "Model Number": "MSN-02",
     "Official Name": "Zeong\u30b8\u30aa\u30f3\u30b0",
@@ -678,7 +678,7 @@
     "OVA": "Gundam-TBBR: A-TEvolve",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "YMS-15MS-15S (Gihren\u2019s Greed)",
     "Official Name": "Gyan\u30ae\u30e3\u30f3",
@@ -706,7 +706,7 @@
     "Game": "Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Publisher": "Kadokawa Shoten  (Japanese)VIZ Media  (English)Vertical Inc.  (English)Comic Walker  (English)",
     "Magazine": "Gundam Ace ",
     "Story & Script": "Yoshikazu Yasuhiko ",
@@ -714,7 +714,7 @@
     "Japanese": "June 25, 2001 \u2014 June 25, 2011",
     "English": "March 26, 2013 \u2014 December 15, 2015",
     "Number of Chapters": "1"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "RX-78-01",
     "Official Name": "Prototype Gundam\u30ac\u30f3\u30c0\u30e0\u8a66\u4f5c\u6a5f\u4e00\u53f7",
@@ -726,7 +726,7 @@
     "Fixed": "2 \u00d7 Vulcan GunBeam SaberShoulder Cannon",
     "Handheld": "Beam RifleShield",
     "Manga": "MSGTO: First Seen in Chapter #1"
-},{
+}{
     "Classification": "Prototype Amphibious Mobile Suit",
     "Model Number": "RX-78-01\uff3bN\uff3d",
     "Official Name": "Gundam Local Type",
@@ -738,7 +738,7 @@
     "Handheld": "Machine Gun",
     "Variation": "Mobile Suit Discovery",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "RX-78-02",
     "Official Name": "Gundam\u30ac\u30f3\u30c0\u30e0",
@@ -756,7 +756,7 @@
     "Manga": "MSGTOEX AEXA VS",
     "Variation": "Mobile Suit Discovery",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Amphibious Mobile Suit",
     "Model Number": "RAG-79-G1",
     "Official Name": "Gundam Marine Type (Gundiver)\u6c34\u4e2d\u578b\u30ac\u30f3\u30c0\u30e0 (\u30ac\u30f3\u30c0\u30a4\u30d0\u30fc)",
@@ -766,9 +766,9 @@
     "Handheld": "Underwater-Use Beam Rifle",
     "Manga": "MSG-O Doan: First Seen in Chapter #3",
     "Variation": "Mobile Suit Discovery"
-},{
+}{
     "Japanese": "1983 \u2014 ongoing"
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "RGC-80",
     "Official Name": "GM Cannon\u30b8\u30e0\u30fb\u30ad\u30e3\u30ce\u30f3",
@@ -798,7 +798,7 @@
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: CrossfireMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production High Mobility Mobile Suit",
     "Model Number": "RGM-79L",
     "Official Name": "GM Light Armor\u30b8\u30e0\u30fb\u30e9\u30a4\u30c8\u30a2\u30fc\u30de\u30fc",
@@ -821,7 +821,7 @@
     "Game": "Mobile Suit Gundam: Spirits of Zeon - Dual Stars of Carnage",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79SC",
     "Official Name": "GM Sniper Custom\u30b8\u30e0\u30fb\u30b9\u30ca\u30a4\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0",
@@ -849,7 +849,7 @@
     "Game": "Mobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Ops: The One Year WarMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing Link",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Trainer Mobile Suit",
     "Model Number": "TGM-79",
     "Official Name": "GM Trainer\u30b8\u30e0\u30fb\u30c8\u30ec\u30fc\u30ca\u30fc",
@@ -871,7 +871,7 @@
     "Manga": "MSZG Define",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Artillery Ground Mobile Suit",
     "Model Number": "RMV-1",
     "Official Name": "Guntank II\u30ac\u30f3\u30bf\u30f3\u30afII",
@@ -896,7 +896,7 @@
     "Game": "Mobile Suit Gundam: CrossfireMobile Suit Gundam Side Story: Missing Link",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Fire Support Mobile Suit",
     "Model Number": "RX-77-4",
     "Official Name": "Guncannon II\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3II",
@@ -919,7 +919,7 @@
     "Manga": "MSG: WFH!Mobile Suit Gundam: After-Jaburo",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "RX-78-1",
     "Official Name": "Prototype Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30ac\u30f3\u30c0\u30e0",
@@ -945,7 +945,7 @@
     "TV Series": "GBD: First Seen in Episode #25",
     "Variation": "MSVMSV-R",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "RX-78-3",
     "Official Name": "Gundam \"G-3\"G-3\u30ac\u30f3\u30c0\u30e0",
@@ -977,7 +977,7 @@
     "Game": "Mobile Suit Gundam: Encounters in SpaceGundam Battle UniverseMobile Suit Gundam: Battle Operation",
     "Variation": "MSVMS-X",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06A",
     "Official Name": "Zaku II First Mass Production Type\u5148\u884c\u91cf\u7523\u578b\u30b6\u30afII",
@@ -992,7 +992,7 @@
     "Manga": "MSV-R: RoJR",
     "Variation": "MSV-R",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06C",
     "Official Name": "Zaku II Early Production Type\u521d\u671f\u91cf\u7523\u578b\u30b6\u30afII",
@@ -1011,7 +1011,7 @@
     "Game": "Mobile Suit: Gundam Pilot's Locus",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Desert Mobile Suit",
     "Model Number": "MS-06D",
     "Official Name": "Zaku Desert Type\u30b6\u30af\u30fb\u30c7\u30b6\u30fc\u30c8\u30bf\u30a4\u30d7",
@@ -1038,7 +1038,7 @@
     "Game": "Mobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam: Bonds of the Battlefield",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Mobile Suit",
     "Model Number": "MS-06E",
     "Official Name": "Zaku Reconnaissance Type\u30b6\u30afII\u5f37\u884c\u5075\u5bdf\u578b",
@@ -1061,7 +1061,7 @@
     "TV Series": "MSZG",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Mobile Suit",
     "Model Number": "MS-06E-3",
     "Official Name": "Zaku Flipper\u30b6\u30af\u30fb\u30d5\u30ea\u30c3\u30d1\u30fc",
@@ -1079,7 +1079,7 @@
     "Manga": "Gundam Legacy",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Custom Commander-use General-Purpose Mobile Suit",
     "Model Number": "MS-06F",
     "Official Name": "Zaku II Dozle Zabi Custom\u91cf\u7523\u578b\u30b6\u30afII\u30ab\u30b9\u30bf\u30e0\uff08\u30c9\u30ba\u30eb\u30fb\u30b6\u30d3\u5c02\u7528\u6a5f\uff09",
@@ -1096,7 +1096,7 @@
     "Game": "Mobile Suit Gundam: Encounters in SpaceGihren's Greed",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Custom Minelayer Mobile Suit",
     "Model Number": "MS-06F",
     "Official Name": "Zaku Minelayer\u30b6\u30af\u30de\u30a4\u30f3\u30ec\u30a4\u30e4\u30fc",
@@ -1113,7 +1113,7 @@
     "OVA": "GBD Prologue",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Ground Mobile Suit",
     "Model Number": "MS-06J",
     "Official Name": "Zaku II Ground Type\u9678\u6226\u578b\u30b6\u30afII",
@@ -1138,7 +1138,7 @@
     "Manga": "Mobile Suit Gundam 0083 RebellionUC: TNSMSG-ZMSB: WI",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Artillery Mobile Suit",
     "Model Number": "MS-06KMS-06J-12",
     "Official Name": "Zaku Cannon\u30b6\u30af\u30ad\u30e3\u30ce\u30f3",
@@ -1168,7 +1168,7 @@
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara (MSG)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "MS-06MMSM-01",
     "Official Name": "Zaku Marine Type, Marine Hizack\u30b6\u30af\u30fb\u30de\u30ea\u30f3\u30bf\u30a4\u30d7 (\u6c34\u4e2d\u7528\u30b6\u30af)",
@@ -1192,7 +1192,7 @@
     "Game": "Mobile Suit Gundam: Advanced Operation",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production High Mobility Mobile Suit",
     "Model Number": "MS-06R-1",
     "Official Name": "Zaku II High Mobility Test Type\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afII \u521d\u671f\u578b",
@@ -1208,7 +1208,7 @@
     "Handheld": "H&L-SB25K/280mmA-P Zaku BazookaH&L-GB05R/360mm Giant Bazooka",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Variation": "Mobile Suit Variations"
-},{
+}{
     "Classification": "Limited Production High Mobility Space Mobile Suit",
     "Model Number": "MS-06R-1A",
     "Official Name": "Zaku II High Mobility Type\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afII \u6539\u826f\u578b",
@@ -1231,7 +1231,7 @@
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSVMSV-R",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production High Mobility Space Mobile Suit",
     "Model Number": "MS-06R-2",
     "Official Name": "Zaku II High Mobility Type\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afII \u5f8c\u671f\u578b",
@@ -1256,7 +1256,7 @@
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of Carnage",
     "Variation": "Mobile Suit VariationsMS-XMSV-R",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype High Mobility Mobile Suit",
     "Model Number": "MS-06R-2P",
     "Official Name": "MS-06R-2P Zaku II High Mobility Test Type\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afII \u5f8c\u671f\u578b\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7",
@@ -1272,7 +1272,7 @@
     "Fixed": "Shoulder Shield",
     "Handheld": "Prototype Beam Rifle",
     "Variation": "MSV"
-},{
+}{
     "Classification": "Prototype High Mobility Mobile Suit",
     "Model Number": "MS-06RP",
     "Official Name": "Zaku II High Mobility Test Type\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afII \u30d7\u30ed\u30c8\u30bf\u30a4\u30d7",
@@ -1287,7 +1287,7 @@
     "Fixed": "Shoulder Shield",
     "Handheld": "M-120A1 120mm Machine GunH&L-SB25K/280mmA-P Zaku BazookaHeat HawkMIP-B6 Cracker Grenade420mm Rocket Gun360mm Rocket Gun",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Training Mobile Suit",
     "Model Number": "MS-06T",
     "Official Name": "Zaku Trainer Type\u30b6\u30af\u30fb\u30c8\u30ec\u30fc\u30ca\u30fc",
@@ -1303,7 +1303,7 @@
     "Game": "Mobile Suit Gundam: Bonds of the Battlefield",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Artillery Ground Mobile Suit",
     "Model Number": "MS-06V",
     "Official Name": "Zaku Tank\u30b6\u30af\u30bf\u30f3\u30af",
@@ -1326,7 +1326,7 @@
     "Manga": "MSG: WFH!MSG-ZMSB: WIMSG-VM0094: AtS",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara (MSV)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Limited Production Support Mobile Suit",
     "Model Number": "MS-06V-6",
     "Official Name": "Zaku Tank Green Macaque\u30b6\u30af\u30bf\u30f3\u30af\uff08\u30b0\u30ea\u30fc\u30f3\u30de\u30ab\u30af\uff09",
@@ -1346,7 +1346,7 @@
     "Manga": "UC: TNS",
     "Variation": "Mobile Suit VariationsHarmony of Gundam",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Labor Mobile Suit",
     "Model Number": "MS-06W",
     "Official Name": "Worker Zaku\u4f5c\u696d\u7528\u30b6\u30af",
@@ -1359,7 +1359,7 @@
     "Operator": "Principality of Zeon",
     "Manga": "MSG: WFH!",
     "Variation": "Mobile Suit Variations"
-},{
+}{
     "Classification": "Prototype Newtype-use Space Mobile Suit",
     "Model Number": "MS-06Z",
     "Official Name": "Psycommu System Zaku\u30b5\u30a4\u30b3\u30df\u30e5\u8a66\u9a13\u7528\u30b6\u30af",
@@ -1377,7 +1377,7 @@
     "Manga": "MSG \u00c9cole",
     "Game": "Mobile Suit Gundam Side Story: Missing LinkGundam Versus",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Ground Mobile Suit",
     "Model Number": "MS-07A",
     "Official Name": "Gouf\u30b0\u30d5\u5148\u884c\u751f\u7523\u578b",
@@ -1391,7 +1391,7 @@
     "Handheld": "H&L-SB25K/280mmA-P Zaku Bazooka120mm Assault RifleKnuckle Shield",
     "Novel": "Mobile Suit Gundam: Zeonic Front 0079",
     "Game": "Mobile Suit Gundam Gihren's GreedMobile Suit Gundam: Zeonic Front"
-},{
+}{
     "Classification": "Custom Close Quarters Combat Ground Mobile Suit",
     "Model Number": "MS-07B",
     "Official Name": "Gouf M'Quve Custom\u30b0\u30d5\uff08\u30de\u30fb\u30af\u30d9\u5c02\u7528\u6a5f\uff09",
@@ -1407,7 +1407,7 @@
     "Handheld": "Shield-Heat Sword Type-\u03b2IV",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Assault Ground Mobile Suit",
     "Model Number": "MS-07C-3",
     "Official Name": "Gouf Heavy Arms Type\u30b0\u30d5\uff08\u91cd\u88c5\u578b\uff09",
@@ -1425,7 +1425,7 @@
     "Manga": "Mobile Suit Gundam: After-Jaburo",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Test-use Ground Mobile Suit",
     "Model Number": "MS-07C-5",
     "Official Name": "Gouf Test Prototype\u30b0\u30d5\uff08\u8a66\u4f5c\u5b9f\u9a13\u578b\uff09",
@@ -1441,7 +1441,7 @@
     "Handheld": "ShieldM-120A1 120mm Machine Gun2 x Sturm Faust",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Aerial Mobile Suit",
     "Model Number": "MS-07H",
     "Official Name": "Gouf Flight Test Type\u30b0\u30d5\uff08\u98db\u884c\u8a66\u9a13\u578b\uff09",
@@ -1466,7 +1466,7 @@
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Aerial Mobile Suit",
     "Model Number": "MS-07H-4",
     "Official Name": "Gouf Flight Test Type\u30b0\u30d5\uff08\u98db\u884c\u578b\uff09",
@@ -1481,7 +1481,7 @@
     "Known Pilots": "Frank Bernard",
     "Fixed": "2 x 5-barrel 75mm Machine Gun",
     "Variation": "MSV"
-},{
+}{
     "Classification": "Prototype Ground Mobile Suit",
     "Model Number": "YMS-07A",
     "Official Name": "Prototype Gouf\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30b0\u30d5",
@@ -1497,7 +1497,7 @@
     "TV Series": "GBD",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Ground Mobile Suit",
     "Model Number": "YMS-09",
     "Official Name": "Prototype Dom\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30c9\u30e0",
@@ -1517,7 +1517,7 @@
     "Game": "Mobile Suit Gundam: Zeonic Front",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Tropical Climate Ground Mobile Suit",
     "Model Number": "YMS-09D",
     "Official Name": "Dom Tropical Test Type\u30c9\u30e0\u30fb\u30c8\u30ed\u30d4\u30ab\u30eb\u30c6\u30b9\u30c8\u30bf\u30a4\u30d7",
@@ -1537,7 +1537,7 @@
     "Novel": "Mobile Suit Gundam - Burning Pursuit",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production High Mobility Mobile Suit",
     "Model Number": "MS-14B",
     "Official Name": "Gelgoog High Mobility Type\u9ad8\u6a5f\u52d5\u578b\u30b2\u30eb\u30b0\u30b0",
@@ -1564,7 +1564,7 @@
     "Game": "Mobile Suit Gundam Side Story: The Blue DestinyMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Battlefield Record U.C. 0081Dynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "MS-14C",
     "Official Name": "Gelgoog Cannon\u30b2\u30eb\u30b0\u30b0\u30ad\u30e3\u30ce\u30f3",
@@ -1591,7 +1591,7 @@
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Mining Mobile Suit",
     "Model Number": "EMS-05",
     "Official Name": "Agg\u30a2\u30c3\u30b0\u6b66\u88c5\u578b",
@@ -1608,7 +1608,7 @@
     "Manga": "MSG: WFH!MSG 0079",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Close Quarters Combat Amphibious Mobile Suit",
     "Model Number": "MSM-04N",
     "Official Name": "Agguguy\u30a2\u30c3\u30b0\u30ac\u30a4",
@@ -1631,7 +1631,7 @@
     "Manga": "MSG: WFH!MSG 0079",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Amphibious Mobile Suit",
     "Model Number": "MSM-08",
     "Official Name": "Zogok\u30be\u30b4\u30c3\u30af",
@@ -1655,7 +1655,7 @@
     "Manga": "MSG: WFH!MSG 0079UC: TNS",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara (MSV)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "MSN-02",
     "Official Name": "Perfect Zeong\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30fb\u30b8\u30aa\u30f3\u30b0",
@@ -1679,7 +1679,7 @@
     "Game": "Gihren's Greed",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{}{
     "Classification": "Prototype Heavy Assault Mobile Suit",
     "Model Number": "FA-78-2",
     "Official Name": "Heavy Gundam\u30d8\u30d3\u30fc\u30ac\u30f3\u30c0\u30e0",
@@ -1698,7 +1698,7 @@
     "Manga": "Mobile Suit Gundam: After-JaburoMSGMSV: BCJR",
     "Variation": "MS-X",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "MS-10",
     "Official Name": "Pezun Dowadge\u30da\u30ba\u30f3\u30fb\u30c9\u30ef\u30c3\u30b8",
@@ -1715,7 +1715,7 @@
     "Manga": "Katana",
     "Game": "Mobile Suit Gundam: Battle Operation",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Artillery Mobile Suit",
     "Model Number": "MS-12",
     "Official Name": "Gigan\u30ae\u30ac\u30f3",
@@ -1739,7 +1739,7 @@
     "TV Series": "GBD: First Seen in Episode #10",
     "Variation": "MS-X",
     "Mechanical Designer": "Kunio Okawara (MS-X)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "MS-13",
     "Official Name": "Gasshia\u30ac\u30c3\u30b7\u30e3",
@@ -1763,11 +1763,11 @@
     "Game": "Gihren's Greed",
     "Variation": "MS-X",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Publisher": "Bandai ",
     "Mechanical Designer": "Kunio Okawara ",
     "Platform": "Apple Bandai Pippin"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "RRf-06",
     "Official Name": "Zanny\u30b6\u30cb\u30fc",
@@ -1786,7 +1786,7 @@
     "Handheld": "120mm Cannon",
     "Game": "Gundam Tactics Mobility Fleet 0079",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype High Mobility Space Mobile Armor",
     "Model Number": "RX-78Opt",
     "Official Name": "Gundam G-Dash\u30ac\u30f3\u30c0\u30e0G\u30c0\u30c3\u30b7\u30e5",
@@ -1801,7 +1801,7 @@
     "Fixed": "2 x 60mm Vulcan Gun2 x Beam Saber2 x Folding Beam Cannon",
     "Handheld": "Beam Rifle",
     "Game": "Gundam Tactics Mobility Fleet 0079"
-},{
+}{
     "Classification": "Limited Production Space Mobile Armor",
     "Model Number": "MA-05MMA-05II",
     "Official Name": "Bigro Meir\u30d3\u30b0\u30ed\u30de\u30a4\u30e4\u30fc",
@@ -1818,13 +1818,13 @@
     "Fixed": "Mega Particle Cannon2 x Claw Arm-2 x Beam Cannon",
     "Manga": "MSV-R: RoJR",
     "Game": "Gundam Tactics Mobility Fleet 0079"
-},{
+}{
     "Publisher": "Bandai ",
     "Character Design": "Toshihiro Kawamoto ",
     "Mechanical Designer": "Kunio Okawara ",
     "Japanese": "February 10, 1995 ",
     "Platform": "Super Famicom "
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Ground Mobile Suit",
     "Model Number": "RX-78XX",
     "Official Name": "Gundam Pixy\u30ac\u30f3\u30c0\u30e0\u30fb\u30d4\u30af\u30b7\u30fc",
@@ -1848,7 +1848,7 @@
     "Manga": "MSG: WFH!",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Mobile Suit Gundam Side Story: Missing LinkGundam Versus",
     "Mechanical Designer": "Kunio Okawara (MSG: CD0079)Kyoshi Takigawa (Missing Link)"
-},{
+}{
     "Classification": "Limited Production Close Quarters Combat Ground Mobile Suit",
     "Model Number": "MS-08TX",
     "Official Name": "Efreet\u30a4\u30d5\u30ea\u30fc\u30c8",
@@ -1871,13 +1871,13 @@
     "TV Series": "GBD: First Seen in Episode #5",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Mobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam Gihren\u2019s Greed",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Publisher": "Bandai ",
     "Character Design": "Genbun Kobayashi",
     "Japanese": "August 26, 1999 ",
     "English": "April 28, 2000 ",
     "Platform": "Dreamcast "
-},{
+}{
     "Classification": "Mass Production Middle Range Support Mobile Suit",
     "Model Number": "RX-77D",
     "Official Name": "Guncannon Mass Production Type\u91cf\u7523\u578b\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3",
@@ -1908,7 +1908,7 @@
     "Manga": "UC: TNSMSG: WFH!Gundam LegacyBR 0081: WoVMobile Suit Gundam: After-JaburoMSG: OGMobile Suit Gundam: Operation: Troy",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam: CrossfireMobile Ops: The One Year War",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79RGM-79S (Commander Type)",
     "Official Name": "GM\u30b8\u30e0",
@@ -1939,7 +1939,7 @@
     "Manga": "MSG: MSGenGundam LegacyMSCG: SHGundam 0079 - Nightmare of SolomonIGLOO 603MSG \u00c9coleBR 0081: WoVClimax UCMSG-Z: 1/2AS0083: HoSMSG:CDAPOYCMobile Suit Gundam 0083 RebellionKatanaMSG: WFH!Mobile Suit Gundam: After-Jaburo",
     "Game": "Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: CrossfireMobile Ops: The One Year WarMS Saga: A New DawnDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Sniper Mobile Suit",
     "Model Number": "RGM-79SP",
     "Official Name": "GM Sniper II\u30b8\u30e0\u30fb\u30b9\u30ca\u30a4\u30d1\u30fcII",
@@ -1970,7 +1970,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing ShadowAnaheim Laboratory Log",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Encounters in SpaceMS Saga: A New DawnMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing LinkGundam Versus",
     "Mechanical Designer": "Yutaka IzubuchiKyoshi Takigawa (Anaheim Laboratory Log)"
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "RGC-80",
     "Official Name": "GM Cannon\u30b8\u30e0\u30fb\u30ad\u30e3\u30ce\u30f3",
@@ -2000,7 +2000,7 @@
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: CrossfireMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Assault Ground Mobile Armor",
     "Official Name": "Rhinoceros\u30e9\u30a4\u30ce\u30b5\u30e9\u30b9",
     "Power Source": "Minovsky Ultracompact Fusion Reactor",
@@ -2012,7 +2012,7 @@
     "Operator": "Principality of Zeon",
     "Fixed": "2 x Arm Machine Gun2 x 18-tube Missile Launcher2 x 3-barrel Heavy Machine Gun200mm Main Cannon (Type A)Burstliner Cannon (Type B)",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: Missing Link"
-},{
+}{
     "Classification": "Mass Production General-Purpose Ground Mobile Suit",
     "Model Number": "MS-14G",
     "Official Name": "Gelgoog Ground Type\u9678\u6226\u578b\u30b2\u30eb\u30b0\u30b0",
@@ -2031,7 +2031,7 @@
     "Fixed": "Short Shield",
     "Handheld": "ShieldMMP-80 90mm Machine Gun (Grenade Launcher)MMP-78 Machine Gun (Grenade Launcher)Large Beam Machine Gun",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Battle Operation"
-},{
+}{
     "Classification": "Mass Production Close Quarters Combat Ground Mobile Suit",
     "Model Number": "MS-07B (Production model)YMS-07B (Prototype model)",
     "Official Name": "Gouf\u30b0\u30d5",
@@ -2059,7 +2059,7 @@
     "Manga": "F90MSG: WFH!MSGTSS: SeanMobile Suit Gundam: After-JaburoGP Bio:BSitS",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: The Blue DestinyMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesGundam 0079: The War for EarthMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Ops: The One Year WarMobile Suit Gundam: Battlefield Record U.C. 0081Dynasty Warriors GundamMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Developer": "Bec",
     "Publisher": "Bandai ",
     "Character Design": "Hiroki Kanno",
@@ -2067,7 +2067,7 @@
     "Japanese": "September 6, 2001 ",
     "English": "January 15, 2002 ",
     "Platform": "Playstation 2 "
-},{
+}{
     "Classification": "Mass Production High Mobility Ground Mobile Suit",
     "Model Number": "RGM-79FD",
     "Official Name": "Armored GM\u88c5\u7532\u5f37\u5316\u578b\u30b8\u30e0",
@@ -2087,7 +2087,7 @@
     "OVA": "GBF: GMCA",
     "Manga": "Gundam LegacyMSG-ZMSB: WI",
     "Game": "Mobile Suit Gundam: Zeonic Front"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RX-78-6",
     "Official Name": "Mudrock Gundam\u30ac\u30f3\u30c0\u30e06\u53f7\u6a5f\uff08\u30de\u30c9\u30ed\u30c3\u30af\uff09",
@@ -2112,7 +2112,7 @@
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam Side Story: Missing Link",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara (M-MSV)Keiichiro Katagiri (Zeonic Front)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "YMS-05MS-05A",
     "Official Name": "Zaku I Early Type\u524d\u671f\u751f\u7523\u578b\u30b6\u30afI",
@@ -2132,7 +2132,7 @@
     "Game": "Mobile Suit Gundam: Zeonic Front",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Ground Mobile Suit",
     "Model Number": "MS-05B",
     "Official Name": "Zaku I Land Warfare Type\u9678\u6226\u578b\u30b6\u30afI",
@@ -2148,7 +2148,7 @@
     "Known Pilots": "Matt AustinLee SwaggardManning",
     "Handheld": "120mm Machine Gun280mm Zaku Bazooka120mm Assault RifleShotgun360mm Giant Bazooka880mmRB-T27 Raketen BazookaHeat SwordFADEGEL RGM-M-Sh-003 Shield",
     "Game": "Mobile Suit Gundam: Zeonic Front"
-},{
+}{
     "Classification": "Mass Production Commander-use General-Purpose Mobile Suit",
     "Model Number": "MS-05S",
     "Official Name": "Zaku I Commander Type\u30b6\u30afI\uff08\u30b2\u30e9\u30fc\u30c8\u30fb\u30b7\u30e5\u30de\u30a4\u30b6\u30fc\u5c02\u7528\u6a5f\uff09",
@@ -2169,7 +2169,7 @@
     "Handheld": "120mm Machine GunH&L-SB25K/280mmA-P Zaku BazookaZIM/M\u00b7T-K175C 175mm Recoilless Rifle880mmRB-T27 Raketen BazookaMIP-B6 Cracker GrenadeSturm Faust90mm Assault RifleKnuckle ShieldMMP-80/90mm Ver.8 Machine Gun3-tube Missile Launcher",
     "Fixed": "Shield-Heat Sword",
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam Side Story: Missing LinkGundam Versus"
-},{
+}{
     "Classification": "Limited Production General-Purpose Ground Mobile Suit",
     "Model Number": "MS-09F",
     "Official Name": "Dom Funf\u30c9\u30e0\u30fb\u30d5\u30e5\u30f3\u30d5",
@@ -2188,7 +2188,7 @@
     "Handheld": "MMP-80 90mm Machine Gun880mmRB-T27 Raketen Bazooka120mm Assault Rifle",
     "Novel": "Mobile Suit Gundam: Zeonic Front 0079",
     "Game": "Mobile Suit Gundam: Zeonic Front"
-},{
+}{
     "Producer": "Sunrise ",
     "English Dub": "Animaze ZRO Limit Productions ",
     "Director": "Fumihiko Takayama",
@@ -2200,7 +2200,7 @@
     "Japanese": "March 25, 1989 \u2014 August 25, 1989",
     "English": "November 5, 2001 \u2014 November 30, 2001",
     "Number of Episodes": "6"
-},{
+}{
     "Classification": "Mass Production Middle Range Support Mobile Suit",
     "Model Number": "RX-77D",
     "Official Name": "Guncannon Mass Production Type\u91cf\u7523\u578b\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3",
@@ -2231,7 +2231,7 @@
     "Manga": "UC: TNSMSG: WFH!Gundam LegacyBR 0081: WoVMobile Suit Gundam: After-JaburoMSG: OGMobile Suit Gundam: Operation: Troy",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam: CrossfireMobile Ops: The One Year War",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Newtype-use General-Purpose Mobile Suit",
     "Model Number": "RX-78NT-1RX-78NT-1FA",
     "Official Name": "Gundam \"Alex\"\u30ac\u30f3\u30c0\u30e0NT-1\uff08\u30a2\u30ec\u30c3\u30af\u30b9\uff09",
@@ -2264,7 +2264,7 @@
     "Manga": "Katana",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Battlefield Record U.C. 0081",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production Colony-Use Mobile Suit",
     "Model Number": "RGM-79G",
     "Official Name": "GM Command\u30b8\u30e0\u30fb\u30b3\u30de\u30f3\u30c9",
@@ -2293,7 +2293,7 @@
     "Manga": "UC: TNSGundam Legacy",
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam Side Story: The Blue DestinyMS Saga: A New Dawn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production Sniper Mobile Suit",
     "Model Number": "RGM-79SP",
     "Official Name": "GM Sniper II\u30b8\u30e0\u30fb\u30b9\u30ca\u30a4\u30d1\u30fcII",
@@ -2324,7 +2324,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing ShadowAnaheim Laboratory Log",
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Encounters in SpaceMS Saga: A New DawnMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing LinkGundam Versus",
     "Mechanical Designer": "Yutaka IzubuchiKyoshi Takigawa (Anaheim Laboratory Log)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Space Mobile Suit",
     "Model Number": "RGM-79GS",
     "Official Name": "GM Command Space Type\u30b8\u30e0\u30fb\u30b3\u30de\u30f3\u30c9\u5b87\u5b99\u6226\u4ed5\u69d8",
@@ -2353,7 +2353,7 @@
     "Manga": "MSG: OGBR 0081: WoVMSG:CDAPOYCMobile Suit Gundam 0083 Rebellion",
     "Game": "Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing LinkGundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Limited Production General-Purpose Mobile Suit",
     "Model Number": "MS-06FZ",
     "Official Name": "Zaku II Kai\u30b6\u30afII\u6539",
@@ -2382,7 +2382,7 @@
     "Manga": "Mobile Suit Gundam 0080: War in the Pocket (Manga)UC: TNSMSG: OGMSG-PAGMSG 0099: MCMSG: WFH!AoZ: FoTMobile Suit Gundam: After-Jaburo",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Ops: The One Year WarMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Extreme Vs.Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production Space Mobile Suit",
     "Model Number": "MS-09R-2MS-09RII",
     "Official Name": "Rick Dom II (Zwei)\u30ea\u30c3\u30af\u30fb\u30c9\u30e0II",
@@ -2412,7 +2412,7 @@
     "Manga": "0083: HoSUC: TNSGundam LegacyMobile Suit Gundam 0080: War in the Pocket (Manga)",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi (0080: WitP)Kyoshi Takigawa (Missing Link)"
-},{
+}{
     "Classification": "Limited Production General-Purpose Mobile Suit",
     "Model Number": "MS-14Jg",
     "Official Name": "Gelgoog J\u00e4ger\u30b2\u30eb\u30b0\u30b0J\uff08\u30a4\u30a7\u30fc\u30ac\u30fc\uff09",
@@ -2443,7 +2443,7 @@
     "Novel": "Advance of Zeta The Traitor to Destiny Extra Compilation: Mace of Judgment",
     "Game": "Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Limited Production Heavy Assault Mobile Suit",
     "Model Number": "MS-18E",
     "Official Name": "K\u00e4mpfer\u30b1\u30f3\u30d7\u30d5\u30a1\u30fc",
@@ -2473,7 +2473,7 @@
     "Manga": "Gundam LegacyMSG:CDAPOYCMobile Suit Gundam 0080: War in the Pocket (Manga)",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: The Return of ZeonMobile Suit Gundam: CrossfireMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Climax U.C.",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "MSM-03C",
     "Official Name": "Hygogg\u30cf\u30a4\u30b4\u30c3\u30b0",
@@ -2501,7 +2501,7 @@
     "Manga": "UC: TNS",
     "Game": "Mobile Suit Gundam Side Story: The Blue DestinyGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam: Extreme Vs.Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Experimental Amphibious Mobile Suit",
     "Model Number": "MSM-07E",
     "Official Name": "Z'Gok-E\u30ba\u30b4\u30c3\u30afE",
@@ -2529,7 +2529,7 @@
     "Manga": "Mobile Suit Gundam 0080: War in the Pocket (Manga)UC: TNSMSG: OGMobile Suit Gundam 0083 RebellionMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Advanced OperationMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing LinkMobile Suit Gundam Side Story: The Blue DestinyMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Crossfire",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Middle Mobile Suit",
     "Model Number": "RH-35E",
     "Official Name": "Riah 35 Draken-E\u30ea\u30fc\u30a235\u30c9\u30e9\u30b1\u30f3E",
@@ -2539,7 +2539,7 @@
     "Operator": "Riah RepublicPrincipality of Zeon",
     "Fixed": "Beam Saber2 x Missile",
     "OVA": "0080: WitP"
-},{
+}{
     "Producer": "Sunrise ",
     "English Dub": "Animaze ZRO Limit Productions ",
     "Director": "Mitsuko KaseTakashi Imanishi ",
@@ -2551,7 +2551,7 @@
     "Japanese": "May 23, 1991 \u2014 September 24, 1992",
     "English": "February 23, 2002 \u2014 May 18, 2002",
     "Number of Episodes": "13"
-},{
+}{
     "Classification": "Mass Production Support Space Mobile Pod",
     "Model Number": "RB-79",
     "Official Name": "Ball\u30dc\u30fc\u30eb",
@@ -2575,7 +2575,7 @@
     "Manga": "Gundam 0079 - Nightmare of SolomonMagical Ensign Blaster MariMobile Suit Gundam 0083 Rebellion",
     "Game": "Gundam Battle AssaultGundam Battle Assault 2Mobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: Encounters in SpaceDynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Support Space Mobile Pod",
     "Model Number": "RB-79C",
     "Official Name": "Ball Type C\u30dc\u30fc\u30eb\u6539",
@@ -2589,7 +2589,7 @@
     "Fixed": "180mm Low-Recoil Cannon",
     "OVA": "0083: SM",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype General-Purpose Ground Mobile Suit",
     "Model Number": "RX-78GP01",
     "Official Name": "Gundam \"Zephyranthes\"\u30ac\u30f3\u30c0\u30e0\u8a66\u4f5c1\u53f7\u6a5f \"\u30bc\u30d5\u30a3\u30e9\u30f3\u30b5\u30b9\"",
@@ -2617,7 +2617,7 @@
     "OVA": "0083: SM: Episode #1 - #5",
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Mechanical Designer": "Shoji Kawamori"
-},{
+}{
     "Classification": "Prototype Tactical Nuclear Assault Mobile Suit",
     "Model Number": "RX-78GP02A",
     "Official Name": "Gundam \"Physalis\"\u30ac\u30f3\u30c0\u30e0\u8a66\u4f5c2\u53f7\u6a5f \"\u30b5\u30a4\u30b5\u30ea\u30b9\"",
@@ -2645,7 +2645,7 @@
     "Manga": "0083: HoSKatanaMSZG DefineMobile Suit Gundam 0083 Rebellion",
     "Game": "Mobile Suit Gundam: Encounters in SpaceDynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2",
     "Mechanical Designer": "Shoji Kawamori"
-},{
+}{
     "Classification": "Prototype Space Mobile Weapon",
     "Model Number": "RX-78GP03RX-78GP03D",
     "Official Name": "Gundam \"Dendrobium\"\u30ac\u30f3\u30c0\u30e0\u8a66\u4f5c3\u53f7\u6a5f \"\u30c7\u30f3\u30c9\u30ed\u30d3\u30a6\u30e0\"",
@@ -2673,7 +2673,7 @@
     "Manga": "0083: HoS",
     "Game": "Mobile Suit Gundam: Encounters in SpaceDynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Attack-Use Space Mobile Suit",
     "Model Number": "RX-78GP03S",
     "Official Name": "Gundam \"Dendrobium Stamen\"\u30ac\u30f3\u30c0\u30e0\u8a66\u4f5c3\u53f7\u6a5f \"\u30b9\u30c6\u30a4\u30e1\u30f3\"",
@@ -2700,7 +2700,7 @@
     "OVA": "0083: SM: Episode #11 - #13EvolveGBDR: First Seen in Episode #25",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79RGM-79S (Commander Type)",
     "Official Name": "GM\u30b8\u30e0",
@@ -2731,7 +2731,7 @@
     "Manga": "MSG: MSGenGundam LegacyMSCG: SHGundam 0079 - Nightmare of SolomonIGLOO 603MSG \u00c9coleBR 0081: WoVClimax UCMSG-Z: 1/2AS0083: HoSMSG:CDAPOYCMobile Suit Gundam 0083 RebellionKatanaMSG: WFH!Mobile Suit Gundam: After-Jaburo",
     "Game": "Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Lost War ChroniclesMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam: Journey to JaburoMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: CrossfireMobile Ops: The One Year WarMS Saga: A New DawnDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79C",
     "Official Name": "GM Type C\u30b8\u30e0\u6539",
@@ -2761,7 +2761,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing ShadowAnaheim Laboratory LogMobile Suit Gundam MSV-R The Troublemakers",
     "Game": "Mobile Suit Gundam: Battle OperationMobile Suit Gundam: Bonds of the Battlefield",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Test-use Mobile Suit",
     "Model Number": "RGM-79",
     "Official Name": "Powered GM\u30d1\u30ef\u30fc\u30c9\u30fb\u30b8\u30e0",
@@ -2787,7 +2787,7 @@
     "OVA": "0083: SM",
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Limited Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79N",
     "Official Name": "GM Custom\u30b8\u30e0\u30fb\u30ab\u30b9\u30bf\u30e0",
@@ -2816,7 +2816,7 @@
     "Novel": "Anaheim Laboratory Log",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Hajime KatokiKyoshi Takigawa (Anaheim Laboratory Log)"
-},{
+}{
     "Classification": "Mass Production Mid-Range Artillery Mobile Suit",
     "Model Number": "RGC-83",
     "Official Name": "GM Cannon II\u30b8\u30e0\u30fb\u30ad\u30e3\u30ce\u30f3II",
@@ -2844,7 +2844,7 @@
     "Manga": "0083: HoSMSG:CDAPOYCGundam Legacy",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Assault Mobile Suit",
     "Model Number": "AGX-04",
     "Official Name": "Gerbera Tetra\u30ac\u30fc\u30d9\u30e9\u30fb\u30c6\u30c8\u30e9",
@@ -2873,7 +2873,7 @@
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Prototype Attack-Use Space Mobile Armor",
     "Model Number": "AMX-002AMA-002AMA-X2",
     "Official Name": "Neue Ziel\u30ce\u30a4\u30a8\u30fb\u30b8\u30fc\u30eb",
@@ -2900,7 +2900,7 @@
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Limited Production Assault Space Mobile Armor",
     "Model Number": "MA-06",
     "Official Name": "Val Walo\u30f4\u30a1\u30eb\u30fb\u30f4\u30a1\u30ed",
@@ -2926,7 +2926,7 @@
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Game": "Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06F",
     "Official Name": "Zaku II\u91cf\u7523\u578b\u30b6\u30afII",
@@ -2955,7 +2955,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing Shadow",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam Side Story 0079: Rise From The AshesGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New DawnMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06F2MS-06F-2",
     "Official Name": "Zaku II F2 Type\u30b6\u30afII F2\u578b",
@@ -2983,7 +2983,7 @@
     "Novel": "Mobile Suit Gundam: Zeonic Front 0079",
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production Ground Mobile Suit",
     "Model Number": "MS-09F/trop",
     "Official Name": "Dom Tropen\u30c9\u30e0\u30fb\u30c8\u30ed\u30fc\u30da\u30f3",
@@ -3012,7 +3012,7 @@
     "Manga": "0083: HoSGundam LegacyMobile Suit Gundam 0083 Rebellion0094: AtS",
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production Space Mobile Suit",
     "Model Number": "MS-09R",
     "Official Name": "Rick Dom\u30ea\u30c3\u30af\u30fb\u30c9\u30e0",
@@ -3042,7 +3042,7 @@
     "Manga": "F90MSCG: SHAoZ: FoTGundam LegacyMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceSD Gundam G Generation: Monoeye GundamsMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing LinkGundam Assault Survive",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Space Mobile Suit",
     "Model Number": "YMS-09R-2",
     "Official Name": "Prototype Rick-Dom Zwei\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30fb\u30ea\u30c3\u30af\u30fb\u30c9\u30e0II",
@@ -3064,7 +3064,7 @@
     "OVA": "0083: SM0083: MoS2",
     "Manga": "MSG:CDAPOYCMobile Suit Gundam 0083 Rebellion",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production Space Mobile Suit",
     "Model Number": "MS-09R-2MS-09RII",
     "Official Name": "Rick Dom II (Zwei)\u30ea\u30c3\u30af\u30fb\u30c9\u30e0II",
@@ -3094,7 +3094,7 @@
     "Manga": "0083: HoSUC: TNSGundam LegacyMobile Suit Gundam 0080: War in the Pocket (Manga)",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi (0080: WitP)Kyoshi Takigawa (Missing Link)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-14F",
     "Official Name": "Gelgoog Marine\u30b2\u30eb\u30b0\u30b0M\uff08\u30de\u30ea\u30fc\u30cd\uff09",
@@ -3124,7 +3124,7 @@
     "Novel": "Advance of Zeta: The Traitor to Destiny",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Encounters in Space",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Limited Production Commander-use Assault Mobile Suit",
     "Model Number": "MS-14Fs",
     "Official Name": "Gelgoog Marine Commander Type\u30b2\u30eb\u30b0\u30b0M\uff08\u6307\u63ee\u5b98\u7528\u6a5f\uff09",
@@ -3151,7 +3151,7 @@
     "OVA": "0083: SM0083: MoS2",
     "Manga": "Mobile Suit Gundam 0083 Rebellion",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production Assault Space Mobile Suit",
     "Model Number": "MS-21C",
     "Official Name": "Dra-C\u30c9\u30e9\u30c3\u30c4\u30a7",
@@ -3175,7 +3175,7 @@
     "Manga": "Mobile Suit Gundam 0083 RebellionKatana",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Unicorn (Game)",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Prototype Long-Range Artillery Ground Mobile Suit",
     "Model Number": "YMS-16M",
     "Official Name": "Xamel\u30b6\u30e1\u30eb",
@@ -3200,7 +3200,7 @@
     "Manga": "0083: HoSMobile Suit Gundam 0083 Rebellion",
     "Game": "MS Saga: A New Dawn",
     "Mechanical Designer": "Hajime Katoki (principal design)Kimitoshi Yamane (clean-up)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79QARZ-79GQ (ReZeon)",
     "Official Name": "GM Quel\u30b8\u30e0\u30fb\u30af\u30a5\u30a8\u30eb",
@@ -3227,7 +3227,7 @@
     "OVA": "0083: SM: Episode #13 - #13",
     "Manga": "AoZ: FoTGundam Legacy0083: HoSMSG:CDAPOYCEX AMSV-R: RoJRAdvance of Zeta Re-Boot: Gundam InleKatana",
     "Mechanical Designer": "Hajime Katoki (0083)Kenji Fujioka (AoZ)"
-},{
+}{
     "Producer": "Sunrise ",
     "English Dub": "Blue Water Studios ",
     "Director": "Yoshiyuki Tomino ",
@@ -3239,7 +3239,7 @@
     "Japanese": "March 2, 1985 \u2014 February 22, 1986",
     "English": "December 14, 2004 \u2014 December 14, 2004",
     "Number of Episodes": "50"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-099MSA-099",
     "Official Name": "Rick Dias\u30ea\u30c3\u30af\u30fb\u30c7\u30a3\u30a2\u30b9",
@@ -3269,7 +3269,7 @@
     "Manga": "MSG \u00c9coleAoZ: FoT0094: AtS",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-179RGM-79RRGM-82",
     "Official Name": "GM II\u30b8\u30e0II",
@@ -3302,7 +3302,7 @@
     "Novel": "Anaheim Laboratory Log",
     "Game": "Mobile Suit Gundam: The Return of ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazuhisa Kondo (principal design)Kazumi Fujita (cleanup)Kyoshi Takigawa (Anaheim Laboratory Log)Hajime Katoki (Unicorn)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSA-003",
     "Official Name": "Nemo\u30cd\u30e2",
@@ -3334,7 +3334,7 @@
     "Manga": "AoZ: FoTMSG \u00c9coleMSZG Define0094: AtSUC: TNSMSG 0099: MC",
     "Game": "Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazumi Fujita (MSZG)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Model Number": "MSA-005",
     "Official Name": "Methuss\u30e1\u30bf\u30b9",
@@ -3361,7 +3361,7 @@
     "TV Series": "MSZGMSG-ZZGBFGBD: First Seen in Episode #10",
     "Manga": "MSG-ZZ: MoZ",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam"
-},{
+}{
     "Classification": "Limited Production Ground Mobile Suit",
     "Model Number": "MSK-008",
     "Official Name": "Dijeh\u30c7\u30a3\u30b8\u30a7",
@@ -3392,7 +3392,7 @@
     "Novel": "Mobile Suit Gundam Narrative (Novel)",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Attack-Use Mobile Suit",
     "Model Number": "MSN-00100",
     "Official Name": "Hyaku Shiki\u767e\u5f0f",
@@ -3424,7 +3424,7 @@
     "Manga": "MSG-ZZ: MoZ",
     "Game": "Dynasty Warriors GundamMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Climax U.C.Dynasty Warriors Gundam 2Mobile Suit Gundam: Extreme Vs. Full BoostDynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano (principal design)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Prototype Newtype-use Transformable Attack-Use Mobile Suit",
     "Model Number": "MSZ-006MSZ-006-1",
     "Official Name": "Zeta Gundam\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -3460,7 +3460,7 @@
     "Novel": "Gundam MS GraphicaMobile Suit Zeta Gundam (Novel)",
     "Game": "Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam Battle AssaultMS Saga: A New Dawn",
     "Mechanical Designer": "Kazumi Fujita (principal design)Kunio Okawara (transformation planning)"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RX-178",
     "Official Name": "Gundam Mk-II\u30ac\u30f3\u30c0\u30e0Mk-II",
@@ -3491,7 +3491,7 @@
     "Manga": "MSG-Z: 1/2ASMSZG DefineMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara (principal design)Mamoru Nagano (principal design)Kazumi Fujita (principal design and cleanup)"
-},{
+}{
     "Classification": "Prototype Transformable Compound Assault Mobile Suit",
     "Model Number": "RX-178+FXA-05D",
     "Official Name": "Super Gundam\u30b9\u30fc\u30d1\u30fc\u30ac\u30f3\u30c0\u30e0",
@@ -3513,7 +3513,7 @@
     "TV Series": "MSZGGBD",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kunio Okawara (principal design)Mamoru Nagano (principal design)Kazumi Fujita (principal design and cleanup)"
-},{
+}{
     "Classification": "Limited Production General-Purpose Mobile Suit",
     "Model Number": "RGM-79SC",
     "Official Name": "GM Sniper Custom\u30b8\u30e0\u30fb\u30b9\u30ca\u30a4\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0",
@@ -3541,7 +3541,7 @@
     "Game": "Mobile Suit Gundam: Bonds of the BattlefieldMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Ops: The One Year WarMobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing Link",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "RGC-80",
     "Official Name": "GM Cannon\u30b8\u30e0\u30fb\u30ad\u30e3\u30ce\u30f3",
@@ -3571,7 +3571,7 @@
     "Game": "Mobile Suit Gundam Side Story 0079: Rise From The AshesMobile Suit Gundam: CrossfireMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Artillery Ground Mobile Suit",
     "Model Number": "RMV-1",
     "Official Name": "Guntank II\u30ac\u30f3\u30bf\u30f3\u30afII",
@@ -3596,7 +3596,7 @@
     "Game": "Mobile Suit Gundam: CrossfireMobile Suit Gundam Side Story: Missing Link",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Mobile Suit",
     "Model Number": "MS-06E",
     "Official Name": "Zaku Reconnaissance Type\u30b6\u30afII\u5f37\u884c\u5075\u5bdf\u578b",
@@ -3619,7 +3619,7 @@
     "TV Series": "MSZG",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "MS-06MMSM-01",
     "Official Name": "Zaku Marine Type, Marine Hizack\u30b6\u30af\u30fb\u30de\u30ea\u30f3\u30bf\u30a4\u30d7 (\u6c34\u4e2d\u7528\u30b6\u30af)",
@@ -3643,7 +3643,7 @@
     "Game": "Mobile Suit Gundam: Advanced Operation",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Artillery Ground Mobile Suit",
     "Model Number": "MS-06V",
     "Official Name": "Zaku Tank\u30b6\u30af\u30bf\u30f3\u30af",
@@ -3666,7 +3666,7 @@
     "Manga": "MSG: WFH!MSG-ZMSB: WIMSG-VM0094: AtS",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara (MSV)Kimitoshi Yamane (08th MST)"
-},{
+}{
     "Classification": "Prototype Aerial Mobile Suit",
     "Model Number": "MS-07H",
     "Official Name": "Gouf Flight Test Type\u30b0\u30d5\uff08\u98db\u884c\u8a66\u9a13\u578b\uff09",
@@ -3691,7 +3691,7 @@
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Variation": "Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-11",
     "Official Name": "Act Zaku\u30a2\u30af\u30c8\u30fb\u30b6\u30af",
@@ -3716,7 +3716,7 @@
     "Game": "Mobile Suit Gundam: Battle OperationMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Side Story: Missing Link",
     "Variation": "MS-X",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-106",
     "Official Name": "Hizack\u30cf\u30a4\u30b6\u30c3\u30af",
@@ -3747,7 +3747,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara (draft)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Limited Production Assault Mobile Suit",
     "Model Number": "RMS-106CSRMS-116",
     "Official Name": "Hizack Custom\u30cf\u30a4\u30b6\u30c3\u30af\u30fb\u30ab\u30b9\u30bf\u30e0",
@@ -3775,7 +3775,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-108MSA-002",
     "Official Name": "Marasai\u30de\u30e9\u30b5\u30a4",
@@ -3806,7 +3806,7 @@
     "Novel": "Advance of Zeta: The Traitor to Destiny",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMS Saga: A New Dawn",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Kazumi Fujita (clean-up)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-117",
     "Official Name": "Galbaldy \u03b2\u30ac\u30eb\u30d0\u30eb\u30c7\u30a3\u03b2",
@@ -3836,7 +3836,7 @@
     "Manga": "MSZG DefineMOON",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Gihren\u2019s Greed",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-154",
     "Official Name": "Barzam\u30d0\u30fc\u30b6\u30e0",
@@ -3864,7 +3864,7 @@
     "Manga": "AoZ: FoTUC: TNS0094: AtSMOON",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Hideo Okamoto (MSZG)Kenki Fujioka (AoZ: FoT)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-179RGM-79RRGM-82",
     "Official Name": "GM II\u30b8\u30e0II",
@@ -3897,7 +3897,7 @@
     "Novel": "Anaheim Laboratory Log",
     "Game": "Mobile Suit Gundam: The Return of ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazuhisa Kondo (principal design)Kazumi Fujita (cleanup)Kyoshi Takigawa (Anaheim Laboratory Log)Hajime Katoki (Unicorn)"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Model Number": "RX-110",
     "Official Name": "Gabthley\u30ac\u30d6\u30b9\u30ec\u30a4",
@@ -3928,7 +3928,7 @@
     "Manga": "0094: AtS",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Limited Production Transformable Mobile Suit",
     "Model Number": "RX-139",
     "Official Name": "Hambrabi\u30cf\u30f3\u30d6\u30e9\u30d3",
@@ -3957,7 +3957,7 @@
     "Manga": "0094: AtS",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Prototype High Mobility Mobile Suit",
     "Model Number": "RX-160",
     "Official Name": "Byarlant\u30d0\u30a4\u30a2\u30e9\u30f3",
@@ -3984,7 +3984,7 @@
     "TV Series": "MSZG: First Seen in Episode #36GBD",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RX-178",
     "Official Name": "Gundam Mk-II\u30ac\u30f3\u30c0\u30e0Mk-II",
@@ -4015,7 +4015,7 @@
     "Manga": "MSG-Z: 1/2ASMSZG DefineMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara (principal design)Mamoru Nagano (principal design)Kazumi Fujita (principal design and cleanup)"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Atmospheric Mobile Armor",
     "Model Number": "NRX-044",
     "Official Name": "Asshimar\u30a2\u30c3\u30b7\u30de\u30fc",
@@ -4047,7 +4047,7 @@
     "Novel": "Advance of Zeta: The Traitor to DestinyAdvance of Zeta: Blue Wings of the AEUG",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Climax U.C.Mobile Suit Gundam: Extreme Vs. Full Boost",
     "Mechanical Designer": "Kunio Okawara (draft)Kazumi Fujita (cleanup)Kyoshi Takigawa (MSG-Z Define)Kenji Fujioka (AoZ)"
-},{
+}{
     "Classification": "Prototype Newtype-use Transformable General-Purpose Mobile Armor",
     "Model Number": "NRX-055NRX-055-1 (Prototype)",
     "Official Name": "Baund Doc\u30d0\u30a6\u30f3\u30c9\u30fb\u30c9\u30c3\u30af",
@@ -4077,7 +4077,7 @@
     "Manga": "GBD B",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Prototype Transformable General-Purpose Mobile Armor",
     "Model Number": "ORX-005ORX-05CRX-005",
     "Official Name": "Gaplant\u30ae\u30e3\u30d7\u30e9\u30f3",
@@ -4107,7 +4107,7 @@
     "Novel": "Char's ReturnGaia Gear",
     "Game": "Mobile Suit Gundam: Advanced Operation",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Transformable Assault Mobile Armor",
     "Model Number": "PMX-000",
     "Official Name": "Messala\u30e1\u30c3\u30b5\u30fc\u30e9",
@@ -4134,7 +4134,7 @@
     "Manga": "MSZG Define",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamGundam Versus",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Heavy Attack Mobile Suit",
     "Model Number": "PMX-001",
     "Official Name": "Palace Athene\u30d1\u30e9\u30b9\u30fb\u30a2\u30c6\u30cd",
@@ -4161,7 +4161,7 @@
     "TV Series": "MSZGGBD: First Seen in Episode #12",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Prototype Assault Mobile Suit",
     "Model Number": "PMX-002",
     "Official Name": "Bolinoak Sammahn\u30dc\u30ea\u30ce\u30fc\u30af\u30fb\u30b5\u30de\u30fc\u30f3",
@@ -4188,7 +4188,7 @@
     "Handheld": "Shield-2-finger Pincer/Grappling Unit-2 x Beam Saber/Beam Tomahawk--2 x Beam Gun",
     "TV Series": "MSZGGBF",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "PMX-003",
     "Official Name": "The-O\u30b8\u30fbO",
@@ -4218,7 +4218,7 @@
     "Manga": "Mobile Suit Gundam Walpurgis",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle Assault",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Mass Production Assault Space Mobile Suit",
     "Model Number": "MS-21C",
     "Official Name": "Dra-C\u30c9\u30e9\u30c3\u30c4\u30a7",
@@ -4242,7 +4242,7 @@
     "Manga": "Mobile Suit Gundam 0083 RebellionKatana",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam Unicorn (Game)",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Mobile Suit",
     "Model Number": "AMX-003MMT-1",
     "Official Name": "Gaza-C\u30ac\u30b6C",
@@ -4270,7 +4270,7 @@
     "Manga": "MSZG DefineUC: TNS",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamGihren's GreedDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Yoshinori Sayama (cleanup)"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "AMX-004MMS-3",
     "Official Name": "Qubeley\u30ad\u30e5\u30d9\u30ec\u30a4",
@@ -4300,7 +4300,7 @@
     "Manga": "MSZG DefineMSZG (M)GBD-RZ",
     "Game": "Gundam Battle AssaultMobile Suit Gundam: Gundam vs. Zeta GundamGihren's GreedDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Limited Production Transformable Mobile Suit",
     "Model Number": "AMX-007MMT-3",
     "Official Name": "Gaza-E\u30ac\u30b6E",
@@ -4325,9 +4325,9 @@
     "Fixed": "2 x Beam Cannon2 x Binder Weapon Pod2 x Beam Saber",
     "Handheld": "Bazooka",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Japanese": "1983 \u2014 ongoing"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "SE-DJ-1R",
     "Official Name": "Dijeh SE-R\u30c7\u30a3\u30b8\u30a7SE-R",
@@ -4341,7 +4341,7 @@
     "Game": "Gihren's Greed",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Full Armor General-Purpose Mobile Suit",
     "Model Number": "FA-178",
     "Official Name": "Full Armor Gundam Mk-II\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u30ac\u30f3\u30c0\u30e0Mk-II",
@@ -4361,7 +4361,7 @@
     "Fixed": "Vulcan Pod Gun2-barrel Beam Cannon (Grenade Launcher)2 x Grenade Launcher",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "MSF-007MSF-007-8 (Unit 8)",
     "Official Name": "Gundam Mk-III\u30ac\u30f3\u30c0\u30e0Mk-III",
@@ -4386,7 +4386,7 @@
     "Novel": "Anaheim Laboratory Log",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi FujitaKyoshi Takigawa (Anaheim Laboratory Log)"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "MSR-00100MSR-100SMSR-00100SMSN-100S",
     "Official Name": "Hyaku Shiki Kai\u767e\u5f0f\u6539",
@@ -4411,7 +4411,7 @@
     "Manga": "Side Story of Gundam Zeta",
     "Novel": "Mobile Suit Gundam Char's Return",
     "Variation": "Zeta Gundam Mobile Suit Variations"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSR-00100S",
     "Official Name": "Hyaku Shiki Kai Mass Production Type\u91cf\u7523\u578b\u767e\u5f0f\u6539",
@@ -4431,7 +4431,7 @@
     "Manga": "0094: AtS",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Limited Production Mid-Range Support Ground Mobile Suit",
     "Model Number": "MSA-005K",
     "Official Name": "Guncannon Detector\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3\u30fb\u30c7\u30a3\u30c6\u30af\u30bf\u30fc",
@@ -4458,7 +4458,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Transformable Amphibious Mobile Suit",
     "Model Number": "MSA-005M",
     "Official Name": "Methuss Mariner\u30e1\u30bf\u30b9\u30fb\u30de\u30ea\u30ca\u30fc",
@@ -4475,7 +4475,7 @@
     "Fixed": "SUBROC (SUBmarine ROCket)2 x Arm Beam Gun2 x Claw Arm6 x Beam Saber",
     "Novel": "Gundam Wars Series",
     "Mechanical Designer": "Yasuyoshi Hasegawa"
-},{
+}{
     "Classification": "Prototype Transformable Assault Mobile Suit",
     "Model Number": "MSA-005S",
     "Official Name": "Methuss Kai\u30e1\u30bf\u30b9\u6539",
@@ -4494,7 +4494,7 @@
     "Operator": "Anti Earth Union GroupKaraba",
     "Fixed": "2 x Beam SaberHigh Mega Cannon",
     "Variation": "Mobile Suit Variations"
-},{
+}{
     "Classification": "Prototype Middle Range Support Mobile Suit",
     "Model Number": "MSA-004K",
     "Official Name": "Nemo III\u30cd\u30e2III",
@@ -4520,7 +4520,7 @@
     "Game": "Gihren's Greed",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "MSA-099-2",
     "Official Name": "Rick Dias II\u30ea\u30c3\u30af\u30fb\u30c7\u30a3\u30a2\u30b9II",
@@ -4544,7 +4544,7 @@
     "Handheld": "Double Mega Beam Gun",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "MSZ-006-X",
     "Official Name": "Prototype Z Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -4563,7 +4563,7 @@
     "Fixed": "2 x Beam Saber",
     "Handheld": "Beam RifleShield",
     "Variation": "Zeta Gundam Mobile Suit Variations"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "MSZ-006-X",
     "Official Name": "Prototype Z Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -4582,7 +4582,7 @@
     "Fixed": "2 x Beam Saber",
     "Handheld": "Beam RifleShield",
     "Variation": "Zeta Gundam Mobile Suit Variations"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "MSZ-006-X",
     "Official Name": "Prototype Z Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -4601,7 +4601,7 @@
     "Fixed": "2 x Beam Saber",
     "Handheld": "Beam RifleShield",
     "Variation": "Zeta Gundam Mobile Suit Variations"
-},{
+}{
     "Classification": "Mass Production Mobile Suit",
     "Model Number": "MSZ-007",
     "Official Name": "Mass Production Type \u0396 Gundam\u91cf\u7523\u578b\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -4624,7 +4624,7 @@
     "Manga": "0094: AtS",
     "Variation": "Zeta Gundam Mobile Suit Variations",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Classification": "Prototype Transformable Space Mobile Suit",
     "Model Number": "MSZ-008",
     "Official Name": "ZII",
@@ -4648,13 +4648,13 @@
     "Manga": "MSG-ZZ: MoZUC-BD",
     "Game": "Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kazumi Fujita"
-},{
+}{
     "Publisher": "MediaWorks ",
     "Magazine": "Dengeki Hobby ",
     "Story & Script": "Satoshi Konno",
     "Character Design": "Takuya Saitou",
     "Mechanical Designer": "Kenki Fujioka "
-},{
+}{
     "Classification": "Prototype Transformable Mobile Armor",
     "Model Number": "ORX-005",
     "Official Name": "Gaplant TR-5 [Fiver]\u30ae\u30e3\u30d7\u30e9\u30f3TR-5\uff3b\u30d5\u30a1\u30a4\u30d0\u30fc\uff3d",
@@ -4669,7 +4669,7 @@
     "Fixed": "20 x Diffuse Beam Cannon",
     "Handheld": "Long Blade Rifle2 x Shield Booster",
     "Manga": "AoZ: FoT"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Mobile Suit",
     "Model Number": "RGM-79EW",
     "Official Name": "EWAC GMEWAC\u30b8\u30e0",
@@ -4680,7 +4680,7 @@
     "Standard": "Sensor RadomeHigh-Mobility Back PackRemote Controlled Camera Unit",
     "Fixed": "Beam Saber",
     "Handheld": "Beam RifleShield"
-},{
+}{
     "Classification": "Mass Production Sniper Mobile Suit",
     "Model Number": "RGM-79SR",
     "Official Name": "GM Sniper III\u30b8\u30e0\u30fb\u30b9\u30ca\u30a4\u30d1\u30fcIII",
@@ -4696,7 +4696,7 @@
     "Fixed": "240mm Cannon",
     "Handheld": "110mm BazookaPrototype Beam Launcher",
     "Manga": "AoZ: FoT"
-},{
+}{
     "Classification": "Prototype High Mobility Mobile Suit",
     "Model Number": "RMS-117",
     "Official Name": "Galbaldy \u03b2 High Mobility Type\u9ad8\u6a5f\u52d5\u578b\u30ac\u30eb\u30d0\u30eb\u30c7\u30a3\u03b2",
@@ -4715,7 +4715,7 @@
     "Fixed": "Beam Saber",
     "Handheld": "Extendable Shield-2 x MissileBeam Rifle",
     "Manga": "AoZ: FoT"
-},{
+}{
     "Classification": "Mass Production Assault Mobile Suit",
     "Model Number": "MSA-003",
     "Official Name": "Nemo Cannon\u30cd\u30e2\u30fb\u30ab\u30ce\u30f3",
@@ -4732,14 +4732,14 @@
     "Fixed": "1-2 x Long Shield Booster",
     "Handheld": "BOWA\u00b7BR-S-85-C2 Beam RifleShield",
     "Manga": "AoZ: FoT"
-},{
+}{
     "Publisher": "Kadokawa Shoten  (Japanese)Tokyopop  (English)",
     "Magazine": "Gundam Ace ",
     "Story & Script": "Haruhiko Mikimoto",
     "Mechanical Designer": "Yoshinori Sayama ",
     "Japanese": "November 22, 2002 \u2014 ongoing",
     "Number of Volumes": "12"
-},{
+}{
     "Classification": "Training Mobile Suit",
     "Model Number": "TGM-79C",
     "Official Name": "GM Canard\u30b8\u30e0\u30ab\u30ca\u30fc\u30eb",
@@ -4752,7 +4752,7 @@
     "Fixed": "Beam Saber",
     "Handheld": "BOWA\u00b7BR-S-85-C2 Beam RifleFADEGEL RGM-M-Sh-007 Shield",
     "Manga": "MSG \u00c9coleMSG-CC: BtT"
-},{
+}{
     "Classification": "Trainer Mobile Suit",
     "Model Number": "TGM-79C",
     "Official Name": "GM Cannes\u30b8\u30e0\u30ab\u30f3\u30cc",
@@ -4763,7 +4763,7 @@
     "Known Pilots": "Asuna ElmaritErisia NoctonKerry SigneForma GardnerLinnyYahagi FranzibackEmilu Voigtlander",
     "Fixed": "Beam Saber",
     "Handheld": "BOWA\u00b7BR-S-85-C2 Beam RifleFADEGEL RGM-M-Sh-007 Shield"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "YMS-18",
     "Official Name": "K\u00e4mpfer Prototype\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30fb\u30b1\u30f3\u30d7\u30d5\u30a1\u30fc",
@@ -4777,7 +4777,7 @@
     "Fixed": "2 x Beam Saber2 x Vulcan Gun",
     "Handheld": "Large Heavy Machine Gun",
     "Manga": "MSG \u00c9cole"
-},{
+}{
     "Classification": "Prototype Newtype-use General-Purpose Mobile Suit",
     "Model Number": "MSS-008",
     "Official Name": "Le Cygne\u30eb\u30fb\u30b7\u30fc\u30cb\u30e5",
@@ -4795,7 +4795,7 @@
     "Fixed": "2 x Gatling Gun2 x Beam Saber (Twin Beam Trident)",
     "Handheld": "Beam RifleFHA-05M02 Mega Beam LauncherShield",
     "Manga": "MSG \u00c9cole"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSS-009",
     "Official Name": "Gemeaux\u30b8\u30a7\u30e2",
@@ -4813,7 +4813,7 @@
     "Fixed": "2 x Beam Saber(Twin Beam Trident)Small Shield",
     "Handheld": "Beam Rifle",
     "Manga": "MSG \u00c9cole"
-},{
+}{
     "Classification": "Prototype Newtype-use Mobile Armor",
     "Official Name": "Dagui\u30c0\u30fc\u30b0\u30a6\u30a7",
     "Overall Height": "18.0 m59.055\u00a0ft 708.661\u00a0in ",
@@ -4828,7 +4828,7 @@
     "Fixed": "2 x 2-barrel Mega Particle CannonLarge Nose Diffuse Particle GunClaw (Large Mega Particle Cannon)",
     "Remote": "20 x Bit",
     "Manga": "MSG \u00c9cole"
-},{
+}{
     "Producer": "Sunrise ",
     "English Dub": "Omni Productions",
     "Director": "Yoshiyuki Tomino ",
@@ -4839,7 +4839,7 @@
     "Music": "Shigeaki Saegusa ",
     "Japanese": "March 1, 1986 \u2014 March 31, 1987",
     "Number of Episodes": "47"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-179RGM-79RRGM-82",
     "Official Name": "GM II\u30b8\u30e0II",
@@ -4872,7 +4872,7 @@
     "Novel": "Anaheim Laboratory Log",
     "Game": "Mobile Suit Gundam: The Return of ZeonMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazuhisa Kondo (principal design)Kazumi Fujita (cleanup)Kyoshi Takigawa (Anaheim Laboratory Log)Hajime Katoki (Unicorn)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-86R",
     "Official Name": "GM III\u30b8\u30e0III",
@@ -4904,7 +4904,7 @@
     "Manga": "UC0096LSMSG 0099: MCUC: TNSUC-BDMOON",
     "Game": "Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yoshinori Sayama (MSG-ZZ)Hajime Katoki (MSG-ZZ)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RX-178",
     "Official Name": "Gundam Mk-II\u30ac\u30f3\u30c0\u30e0Mk-II",
@@ -4935,7 +4935,7 @@
     "Manga": "MSG-Z: 1/2ASMSZG DefineMSV-R: RoJR",
     "Game": "Mobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara (principal design)Mamoru Nagano (principal design)Kazumi Fujita (principal design and cleanup)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSA-003",
     "Official Name": "Nemo\u30cd\u30e2",
@@ -4967,7 +4967,7 @@
     "Manga": "AoZ: FoTMSG \u00c9coleMSZG Define0094: AtSUC: TNSMSG 0099: MC",
     "Game": "Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kazumi Fujita (MSZG)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Model Number": "MSA-005",
     "Official Name": "Methuss\u30e1\u30bf\u30b9",
@@ -4994,7 +4994,7 @@
     "TV Series": "MSZGMSG-ZZGBFGBD: First Seen in Episode #10",
     "Manga": "MSG-ZZ: MoZ",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta Gundam"
-},{
+}{
     "Classification": "Prototype Attack-Use Mobile Suit",
     "Model Number": "MSN-00100",
     "Official Name": "Hyaku Shiki\u767e\u5f0f",
@@ -5026,7 +5026,7 @@
     "Manga": "MSG-ZZ: MoZ",
     "Game": "Dynasty Warriors GundamMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Climax U.C.Dynasty Warriors Gundam 2Mobile Suit Gundam: Extreme Vs. Full BoostDynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano (principal design)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Prototype Newtype-use Transformable Attack-Use Mobile Suit",
     "Model Number": "MSZ-006MSZ-006-1",
     "Official Name": "Zeta Gundam\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -5062,7 +5062,7 @@
     "Novel": "Gundam MS GraphicaMobile Suit Zeta Gundam (Novel)",
     "Game": "Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam Battle AssaultMS Saga: A New Dawn",
     "Mechanical Designer": "Kazumi Fujita (principal design)Kunio Okawara (transformation planning)"
-},{
+}{
     "Classification": "Prototype Newtype-use Transformable Multipurpose Mobile Suit",
     "Model Number": "MSZ-010",
     "Official Name": "\u0396\u0396 Gundam\u0396\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -5095,7 +5095,7 @@
     "Novel": "Mobile Suit Gundam ZZ (Novel)",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Makoto Kobayashi (draft)Hideo Okamoto (cleanup)"
-},{
+}{
     "Classification": "Prototype Transformable Heavy Assault Mobile Suit",
     "Model Number": "MSZ-010SMSZ-010B",
     "Official Name": "Enhanced ZZ Gundam\u5f37\u5316\u578b\u0396\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -5123,7 +5123,7 @@
     "Handheld": "Double Beam Rifle",
     "TV Series": "MSG-ZZ",
     "OVA": "30th Gundam Perfect MissionEvolve"
-},{
+}{
     "Classification": "Prototype Full Armor Multipurpose Heavy Assault Mobile Suit",
     "Model Number": "FA-010SFA-010B",
     "Official Name": "Full Armor ZZ Gundam\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u0396\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -5152,7 +5152,7 @@
     "OVA": "30th Gundam Perfect Mission",
     "Game": "Gundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Prototype Transformable Assault Space Mobile Armor",
     "Model Number": "AMA-01X",
     "Official Name": "Jamru Fin\u30b8\u30e3\u30e0\u30eb\u30fb\u30d5\u30a3\u30f3",
@@ -5179,7 +5179,7 @@
     "Fixed": "Mega Launcher2 x 8-tube Missile Launcher2 x Beam GunBomber Unit",
     "TV Series": "MSG-ZZ: First Seen in Episode #38GBF",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Mobile Suit",
     "Model Number": "AMX-003MMT-1",
     "Official Name": "Gaza-C\u30ac\u30b6C",
@@ -5207,7 +5207,7 @@
     "Manga": "MSZG DefineUC: TNS",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamGihren's GreedDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Yoshinori Sayama (cleanup)"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "AMX-004MMS-3",
     "Official Name": "Qubeley\u30ad\u30e5\u30d9\u30ec\u30a4",
@@ -5237,7 +5237,7 @@
     "Manga": "MSZG DefineMSZG (M)GBD-RZ",
     "Game": "Gundam Battle AssaultMobile Suit Gundam: Gundam vs. Zeta GundamGihren's GreedDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "AMX-004-2 (Unit 1)AMX-004-3 (Unit 2)",
     "Official Name": "Qubeley Mk-II\u30ad\u30e5\u30d9\u30ec\u30a4Mk-II",
@@ -5266,7 +5266,7 @@
     "OVA": "Evolve",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "AMX-004-2 (Unit 1)AMX-004-3 (Unit 2)",
     "Official Name": "Qubeley Mk-II\u30ad\u30e5\u30d9\u30ec\u30a4Mk-II",
@@ -5295,7 +5295,7 @@
     "OVA": "Evolve",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Mass Production Newtype-use Assault Mobile Suit",
     "Model Number": "AMX-004GAMX-017",
     "Official Name": "Qubeley Mass Production Type\u91cf\u7523\u578b\u30ad\u30e5\u30d9\u30ec\u30a4",
@@ -5326,7 +5326,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Mamoru Nagano"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Mobile Suit",
     "Model Number": "AMX-006",
     "Official Name": "Gaza-D\u30ac\u30b6D",
@@ -5352,7 +5352,7 @@
     "TV Series": "MSG-ZZGBD",
     "OVA": "MSG-UC: Episode #3 - #7",
     "Game": "Gihren's GreedDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link"
-},{
+}{
     "Classification": "Mass Production Transformable Assault Mobile Suit",
     "Model Number": "AMX-008",
     "Official Name": "Ga-Zowmn\u30ac\u30fb\u30be\u30a6\u30e0",
@@ -5380,7 +5380,7 @@
     "TV Series": "MSG-ZZGBD",
     "OVA": "MSG-UC: Episode #7 - #7",
     "Novel": "Mobile Suit Gundam Unicorn (Novel)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "AMX-009",
     "Official Name": "Dreissen\u30c9\u30e9\u30a4\u30bb\u30f3",
@@ -5409,7 +5409,7 @@
     "Manga": "UC: TNSUC0096LSMSG 0099: MCMSG-ZZ: MoZGNT(M)",
     "Game": "Gihren's Greed",
     "Mechanical Designer": "Yutaka Izubuchi (ZZ)Hajime Katoki (Unicorn)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "AMX-011",
     "Official Name": "Zaku III\u30b6\u30afIII",
@@ -5440,7 +5440,7 @@
     "Novel": "Mobile Suit Gundam Char's Return",
     "Game": "Mobile Suit Gundam Climax U.C.",
     "Mechanical Designer": "Masahiro Oda (principal design)Mika Akitaka (cleanup)"
-},{
+}{
     "Classification": "Custom Commander-use General-Purpose Mobile Suit",
     "Model Number": "AMX-011S",
     "Official Name": "Zaku III Custom\u30b6\u30afIII\u6539",
@@ -5470,7 +5470,7 @@
     "Manga": "MSG-TA (M)",
     "Novel": "Mobile Suit Gundam Twilight Axis (Novel)",
     "Game": "Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Extreme Vs. Full Boost"
-},{
+}{
     "Classification": "Mass Production Quasi-Psycommu Assault Mobile Suit",
     "Model Number": "AMX-014",
     "Official Name": "D\u00f6ven Wolf\u30c9\u30fc\u30d9\u30f3\u30fb\u30a6\u30eb\u30d5",
@@ -5500,7 +5500,7 @@
     "Manga": "UC-BDUC0096LSMSG 0099: MC",
     "Game": "Mobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Newtype-use Heavy Assault Mobile Suit",
     "Model Number": "AMX-015",
     "Official Name": "Geymalk\u30b2\u30fc\u30de\u30eb\u30af",
@@ -5528,7 +5528,7 @@
     "TV Series": "MSG-ZZGBF: First Seen in Episode #10GBD: First Seen in Episode #12",
     "Manga": "MSG 0099: MC",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Limited Production Close Quarters Combat Mobile Suit",
     "Model Number": "AMX-101",
     "Official Name": "Galluss-J\u30ac\u30eb\u30b9J",
@@ -5556,7 +5556,7 @@
     "Manga": "MSZG Define",
     "Game": "Gihren's Greed",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "AMX-102",
     "Official Name": "Zssa\u30ba\u30b5",
@@ -5586,7 +5586,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Gihren's Greed",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Quasi-Psycommu Assault Mobile Suit",
     "Model Number": "AMX-103",
     "Official Name": "Hamma Hamma\u30cf\u30f3\u30de\u30fb\u30cf\u30f3\u30de",
@@ -5613,7 +5613,7 @@
     "TV Series": "MSG-ZZGBD",
     "Game": "Mobile Suit Gundam Gihren\u2019s GreedGundam Battle Assault 2",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Commander-use Close Quarters Combat Mobile Suit",
     "Model Number": "AMX-104",
     "Official Name": "R-JarjaR\u30fb\u30b8\u30e3\u30b8\u30e3",
@@ -5643,7 +5643,7 @@
     "Novel": "Mobile Suit Gundam Twilight Axis (Novel)",
     "Game": "Gihren's Greed",
     "Mechanical Designer": "Yutaka Izubuchi (principal design)Mika Akitaka (clean-up)"
-},{
+}{
     "Classification": "Mass Production Transformable Attack-Use Mobile Suit",
     "Model Number": "AMX-107",
     "Official Name": "Bawoo\u30d0\u30a6",
@@ -5675,7 +5675,7 @@
     "Manga": "MSG-ZZ: MoZUC0096LS",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Limited Production Transformable Amphibious Mobile Suit",
     "Model Number": "AMX-109",
     "Official Name": "Capule\u30ab\u30d7\u30fc\u30eb",
@@ -5701,7 +5701,7 @@
     "OVA": "MSG-UC",
     "Manga": "UC: TNSMSG-ZZ: MoZ",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-06F",
     "Official Name": "Zaku II\u91cf\u7523\u578b\u30b6\u30afII",
@@ -5730,7 +5730,7 @@
     "Novel": "Mobile Suit Gundam: The Blazing Shadow",
     "Game": "Mobile Suit Gundam: Journey to JaburoMobile Suit Gundam Side Story 0079: Rise From The AshesGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New DawnMobile Suit Gundam: Zeonic FrontMobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Ground Mobile Suit",
     "Model Number": "MS-09G",
     "Official Name": "Dwadge\u30c9\u30ef\u30c3\u30b8",
@@ -5760,7 +5760,7 @@
     "Manga": "MSG: TRoZUC: TNSGundam Legacy",
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Mechanical Designer": "Masahiro Oda"
-},{
+}{
     "Classification": "Custom Commander-use Ground Mobile Suit",
     "Model Number": "MS-09H",
     "Official Name": "Dwadge Custom\u30c9\u30ef\u30c3\u30b8\u6539",
@@ -5785,7 +5785,7 @@
     "Fixed": "2 x 60mm Vulcan GunHeat SaberScattering Beam Gun",
     "Handheld": "Beam CannonHeat Tomahawk",
     "TV Series": "MSG-ZZ"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MS-14A",
     "Official Name": "Gelgoog\u91cf\u7523\u578b\u30b2\u30eb\u30b0\u30b0",
@@ -5815,7 +5815,7 @@
     "Manga": "0083: HoSGundam LegacyUC: TNS",
     "Game": "Mobile Suit Gundam: Cross Dimension 0079Gundam Tactics Mobility Fleet 0079Mobile Suit Gundam: Federation vs ZeonMobile Suit Gundam: Encounters in SpaceMobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMobile Suit Gundam: Spirits of Zeon - Dual Stars of CarnageMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Assault Mobile Suit",
     "Model Number": "RMS-099B",
     "Official Name": "Schuzrum Dias\u30b7\u30e5\u30c4\u30eb\u30e0\u30fb\u30c7\u30a3\u30a2\u30b9",
@@ -5842,7 +5842,7 @@
     "Handheld": "2 x Beam PistolAE/ZIM.C-BAZ-531 300mm Clay Bazooka",
     "TV Series": "MSG-ZZGBD",
     "Mechanical Designer": "Mamoru Nagano (principal design)Mika Akitaka (clean-up)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-106",
     "Official Name": "Hizack\u30cf\u30a4\u30b6\u30c3\u30af",
@@ -5873,7 +5873,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara (draft)Kazumi Fujita (cleanup)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-108MSA-002",
     "Official Name": "Marasai\u30de\u30e9\u30b5\u30a4",
@@ -5904,7 +5904,7 @@
     "Novel": "Advance of Zeta: The Traitor to Destiny",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornMS Saga: A New Dawn",
     "Mechanical Designer": "Makoto Kobayashi (principal design)Kazumi Fujita (clean-up)"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Mobile Suit",
     "Model Number": "RMS-119",
     "Official Name": "EWAC ZackEWAC\u30b6\u30c3\u30af",
@@ -5934,7 +5934,7 @@
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Game": "Mobile Suit Gundam: The Return of Zeon",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "RMS-192M",
     "Official Name": "Zaku Mariner\u30b6\u30af\u30fb\u30de\u30ea\u30ca\u30fc",
@@ -5958,7 +5958,7 @@
     "TV Series": "MSG-ZZ",
     "OVA": "MSG-UC",
     "Manga": "UC: TNS"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Atmospheric Mobile Armor",
     "Model Number": "NRX-044",
     "Official Name": "Asshimar\u30a2\u30c3\u30b7\u30de\u30fc",
@@ -5990,7 +5990,7 @@
     "Novel": "Advance of Zeta: The Traitor to DestinyAdvance of Zeta: Blue Wings of the AEUG",
     "Game": "Mobile Suit Gundam: Gundam vs. Zeta GundamMobile Suit Gundam Climax U.C.Mobile Suit Gundam: Extreme Vs. Full Boost",
     "Mechanical Designer": "Kunio Okawara (draft)Kazumi Fujita (cleanup)Kyoshi Takigawa (MSG-Z Define)Kenji Fujioka (AoZ)"
-},{
+}{
     "Classification": "Prototype Newtype-use Heavy Assault Mobile Suit",
     "Model Number": "NZ-000",
     "Official Name": "Queen Mansa\u30af\u30a3\u30f3\u30fb\u30de\u30f3\u30b5",
@@ -6019,7 +6019,7 @@
     "Manga": "Mobile Suit Gundam REON",
     "Game": "Mobile Suit Gundam Side Story: Missing LinkDynasty Warriors Gundam 2Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production Civilian-use Colony Construction Mobile Worker",
     "Official Name": "Catl\u30ad\u30e3\u30c8\u30eb",
     "Overall Height": "30 m98.425\u00a0ft 1,181.102\u00a0in ",
@@ -6030,7 +6030,7 @@
     "Fixed": "Torch Gun",
     "TV Series": "MSG-ZZ",
     "Manga": "MOON"
-},{
+}{
     "Classification": "Custom Mobile Worker",
     "Official Name": "Geze\u30b2\u30bc",
     "Power Source": "Ultracompact Minovsky Fusion Reactor",
@@ -6041,9 +6041,9 @@
     "Known Pilots": "Gemon BajackYazan GableMashymre Cello (novel only)",
     "Handheld": "Rod",
     "TV Series": "MSG-ZZ"
-},{
+}{
     "Japanese": "1983 \u2014 ongoing"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Model Number": "FX-010A",
     "Official Name": "Super G Fortress\u30b9\u30fc\u30d1\u30fcG\u30d5\u30a9\u30fc\u30c8\u30ec\u30b9",
@@ -6064,7 +6064,7 @@
     "Fixed": "Double Beam RifleHyper Mega CannonDouble Cannon2 x 21-tube Missile Launcher (AMA-13S small missiles)4 x 10-tube Missile Pod (AMA-35S missiles)2 x 2-tube Missile Launcher (AMF-37H missiles)",
     "Variation": "Gundam ZZ Mobile Suit Variations",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Deep Sea Salvage Mobile Suit",
     "Model Number": "RMS-188MD",
     "Official Name": "Zaku Diver\u30b6\u30af\u30c0\u30a4\u30d0\u30fc",
@@ -6075,7 +6075,7 @@
     "Operator": "Earth Federation ForcesTitansNeo Zeon",
     "Handheld": "SUBROC Gun",
     "TV Series": "GBFT"
-},{
+}{
     "Classification": "Custom Desert Mobile Suit",
     "Model Number": "MS-06DRC",
     "Official Name": "Desert Zaku Rommel Custom\u30c7\u30a3\u30b6\u30fc\u30c8\u30b6\u30af\uff08\u30ed\u30f3\u30e1\u30eb\u30fb\u30ab\u30b9\u30bf\u30e0\uff09",
@@ -6089,7 +6089,7 @@
     "Handheld": "Long-Range Rifle",
     "Manga": "Gundam Legacy",
     "Variation": "Gundam ZZ Mobile Suit Variations"
-},{
+}{
     "Classification": "Limited Production General-Purpose Desert Mobile Suit",
     "Model Number": "MS-14D",
     "Official Name": "Desert Gelgoog\u30c7\u30a3\u30b6\u30fc\u30c8\u30b2\u30eb\u30b0\u30b0",
@@ -6109,12 +6109,12 @@
     "OVA": "MSG-UC: First Seen in Episode #4",
     "Variation": "Gundam ZZ Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara (ZZ-MSV)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Publisher": "Dai Nippon Kaiga",
     "Magazine": "Model Graphix",
     "Story & Script": "Masaya Takahashi ",
     "Mechanical Designer": "Hajime Katoki "
-},{
+}{
     "Classification": "Prototype Heavy Assault Mobile Suit",
     "Model Number": "FA-010A",
     "Official Name": "FAZZ",
@@ -6139,7 +6139,7 @@
     "Novel": "Gundam Sentinel",
     "Game": "Gihren's Greed",
     "Mechanical Designer": "Mika Akitaka (principal design)Hajime Katoki (clean-up)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSA-007",
     "Official Name": "Nero\u30cd\u30ed",
@@ -6162,7 +6162,7 @@
     "Manga": "MSG 0099: MC",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Reconnaissance Mobile Suit",
     "Model Number": "MSA-007E",
     "Official Name": "EWAC NeroEWAC\u30cd\u30ed",
@@ -6183,7 +6183,7 @@
     "Standard": "Early Warning And Control (EWAC)2 x Propellant Booster",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Transformable Assault Mobile Suit",
     "Model Number": "MSA-0011MSZ-011",
     "Official Name": "S GundamS\u30ac\u30f3\u30c0\u30e0",
@@ -6209,7 +6209,7 @@
     "TV Series": "GBF",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Transformable High-Mobility Heavy Assault Space Mobile Suit",
     "Model Number": "MSA-0011\uff3bBst\uff3d",
     "Official Name": "S Gundam Booster Unit TypeS\u30ac\u30f3\u30c0\u30e0\uff08\u30d6\u30fc\u30b9\u30bf\u30fc\u30e6\u30cb\u30c3\u30c8\u88c5\u7740\u578b\uff09",
@@ -6234,7 +6234,7 @@
     "Handheld": "Beam Smart Gun",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Transformable High-Mobility Heavy Assault Mobile Suit",
     "Model Number": "MSA-0011\uff3bBst\uff3d",
     "Official Name": "S Gundam Booster Unit Type Plan 303E \"Deep Striker\"PLAN 303E S\u30ac\u30f3\u30c0\u30e0 \u30c7\u30a3\u30fc\u30d7\u30fb\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc",
@@ -6249,7 +6249,7 @@
     "Fixed": "4 x 60mm Vulcan GunINCOM2 x Beam CannonBattleship-use Mega Particle Cannon",
     "Handheld": "Beam Smart Gun",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Mobile Suit",
     "Model Number": "MSZ-006-X",
     "Official Name": "Prototype Z Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -6268,7 +6268,7 @@
     "Fixed": "2 x Beam Saber",
     "Handheld": "Beam RifleShield",
     "Variation": "Zeta Gundam Mobile Suit Variations"
-},{
+}{
     "Classification": "Limited Production Transformable Atmospheric Mobile Suit",
     "Model Number": "MSZ-006A1MSK-006",
     "Official Name": "Zeta Plus A1\u0396\u30d7\u30e9\u30b9A1\u578b",
@@ -6292,7 +6292,7 @@
     "OVA": "MSG-UCGBDR: First Seen in Episode #26",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Model Number": "MSZ-006A3",
     "Official Name": "Zeta Plus A3\u0396\u30d7\u30e9\u30b9A3\u578b",
@@ -6309,7 +6309,7 @@
     "Fixed": "2 x 60mm Vulcan Gun2 x Thigh Beam Cannon (2 x Beam Saber)",
     "Handheld": "ShieldBeam Rifle",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Transformable Trainer Mobile Suit",
     "Model Number": "MSZ-006B",
     "Official Name": "Zeta Plus B\u0396\u30d7\u30e9\u30b9B\u578b",
@@ -6326,7 +6326,7 @@
     "Fixed": "2 x 60mm Vulcan Gun2 x Thigh Beam Cannon (2 x Beam Saber)",
     "Handheld": "Shield",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Limited Production Transformable Anti-Ship Mobile Suit",
     "Model Number": "MSZ-006BN",
     "Official Name": "Zeta Plus BN\u0396\u30d7\u30e9\u30b9BN\u578b",
@@ -6337,7 +6337,7 @@
     "Operator": "Karaba",
     "Fixed": "2 x Beam Cannon",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Prototype Transformable Assault Mobile Suit",
     "Model Number": "MSZ-006AIB",
     "Official Name": "Zeta Plus A1B\u0396\u30d7\u30e9\u30b9A1B\u578b",
@@ -6349,7 +6349,7 @@
     "Standard": "4 x Hardpoint",
     "Fixed": "6 x Gatling Gun2 x Thigh Beam Cannon (2 x Beam Saber)",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Prototype Transformable Low-Orbit Interception Mobile Suit",
     "Model Number": "MSZ-006C4",
     "Official Name": "Zeta Plus C4\u0396\u30d7\u30e9\u30b9C4\u578b",
@@ -6372,7 +6372,7 @@
     "Fixed": "2 x 60mm Vulcan GunBeam Cannon2 x Beam Saber",
     "Manga": "MSG 0099: MC",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Prototype Transformable Aerial Mobile Suit",
     "Model Number": "MSZ-006D",
     "Official Name": "Zeta Plus D\u0396\u30d7\u30e9\u30b9D\u578b",
@@ -6388,7 +6388,7 @@
     "Fixed": "2 x 60mm Vulcan Gun2 x Thigh Beam Cannon (2 x Beam Saber)",
     "Handheld": "Shield",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-86R",
     "Official Name": "Nouvel GM III\u30cc\u30fc\u30d9\u30eb\u30fb\u30b8\u30e0III",
@@ -6414,7 +6414,7 @@
     "Manga": "0094: AtS",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-154",
     "Official Name": "Refined Barzam\u30d0\u30fc\u30b6\u30e0\uff08\u30ea\u30d5\u30a1\u30a4\u30f3\u7248\uff09Barzam Custom\u30d0\u30fc\u30b6\u30e0\u6539",
@@ -6438,7 +6438,7 @@
     "Handheld": "Hyper Bazooka",
     "Manga": "UC: TToEFF0094: AtS",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Prototype Quasi-Psycommu General-Purpose Mobile Suit",
     "Model Number": "ORX-013",
     "Official Name": "Gundam Mk-V\u30ac\u30f3\u30c0\u30e0Mk-V",
@@ -6463,7 +6463,7 @@
     "Handheld": "Beam RifleShield Booster",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RMS-141",
     "Official Name": "Xeku Eins\u30bc\u30af\u30fb\u30a2\u30a4\u30f3",
@@ -6489,7 +6489,7 @@
     "Manga": "MOON",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Prototype Heavy Assault Mobile Suit",
     "Model Number": "RMS-142",
     "Official Name": "Xeku Zwei\u30bc\u30af\u30fb\u30c4\u30f4\u30a1\u30a4",
@@ -6515,7 +6515,7 @@
     "Handheld": "120mm Machine GunLong Range Beam Smart Gun",
     "Novel": "Gundam Sentinel",
     "Mechanical Designer": "Hajime Katoki"
-},{
+}{
     "Classification": "Mobile Suit",
     "Model Number": "RMS-143",
     "Official Name": "Xeku Drei\u30bc\u30af\u30fb\u30c9\u30e9\u30a4",
@@ -6523,7 +6523,7 @@
     "Operator": "New Desides",
     "Fixed": "? x Micro-Missile",
     "Handheld": "Machine Gun"
-},{
+}{
     "Classification": "Prototype Heavy Assault Mobile Armor",
     "Model Number": "AMA-100",
     "Official Name": "Z'od-iacok\u30be\u30c7\u30a3\u30fb\u30a2\u30c3\u30af",
@@ -6549,13 +6549,13 @@
     "Optional": "Booster",
     "Fixed": "2 x Large Mega Particle Gun12 x Beam Cannon4 x Wired Beam Claw12 x Beam Saber8 x 60mm Vulcan Gun16 x Large Missile",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Transformable General Purpose Assault Mobile Suit",
     "Model Number": "AMX-011",
     "Operator": "Neo ZeonAxis Zeon",
     "Manga": "MOON",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Classification": "Limited Production Transformable Mobile Suit",
     "Model Number": "AMX-007MMT-3",
     "Official Name": "Gaza-E\u30ac\u30b6E",
@@ -6580,14 +6580,14 @@
     "Fixed": "2 x Beam Cannon2 x Binder Weapon Pod2 x Beam Saber",
     "Handheld": "Bazooka",
     "Novel": "Gundam Sentinel"
-},{
+}{
     "Publisher": "Bandai Visual Media Works ",
     "Magazine": "MJ (Model Journal)Pure Cyber Comix",
     "Story & Script": "Yuji Ushida ",
     "Mechanical Designer": "Hitoshi Fukuchi ",
     "Art Director": "K\u014dichi Tokita ",
     "Number of Volumes": "1"
-},{
+}{
     "Classification": "Custom General-Purpose Mobile Worker",
     "Model Number": "MWS-19051G",
     "Official Name": "D Gundam \"First\"D\u30ac\u30f3\u30c0\u30e0\u30d5\u30a1\u30fc\u30b9\u30c8",
@@ -6606,7 +6606,7 @@
     "Handheld": "1 x rivet gun1 x magnet anchor1 x large torch gun1 x drill gun1 x large birdlime shell1 x beam shotgun Assorted wired bombs",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Custom General-Purpose Mobile Worker",
     "Model Number": "MWS-19051G-2",
     "Official Name": "D Gundam \"Second\"D\u30ac\u30f3\u30c0\u30e0\u30bb\u30ab\u30f3\u30c9",
@@ -6626,7 +6626,7 @@
     "Handheld": "1 x rivet gun1 x magnet anchor1 x large torch gun1 x drill gun1 x bazooka assorted wired bombs",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "MSA-008RGM-87",
     "Official Name": "Bar-GM\u30d0\u30fc\u30b8\u30e0",
@@ -6636,7 +6636,7 @@
     "Operator": "Anti Earth Union GroupEarth Federation Forces",
     "Fixed": "Beam Rifle2 x Beam Saber",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RGD-X1",
     "Official Name": "GD StrikerGD\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc",
@@ -6644,7 +6644,7 @@
     "Operator": "Earth Federation Forces",
     "Fixed": "Beam Rifle2 x Beam SaberGrenade launcherShield Machine Gun",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RGX-D3",
     "Official Name": "D Gundam \"Third\"D\u30ac\u30f3\u30c0\u30e0\u30b5\u30fc\u30c9",
@@ -6664,7 +6664,7 @@
     "Fixed": "Beam rifleBeam saber2 x G-blast knuckle2x Shield beam rifle w/grenade launcherBuster shot",
     "Handheld": "Bazooka",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RGX-D4",
     "Official Name": "D Gundam \"Fourth\"D\u30ac\u30f3\u30c0\u30e0\u30d5\u30a9\u30fc\u30b9",
@@ -6682,14 +6682,14 @@
     "Fixed": "Beam rifleBeam saberShieldG-Cruiser unit2 x Mega cannon2 x Beam cannon",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Transformable Mobile Suit",
     "Model Number": "AMX-002",
     "Official Name": "Gaza-B\u30ac\u30b6B",
     "Manufacturer": "Axis Zeon ",
     "Operator": "Axis ZeonNewborn Neo Zeon",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Mobile Suit",
     "Model Number": "AMX-003S",
     "Official Name": "Gaza-C Custom\u30ac\u30b6C\u6539",
@@ -6710,7 +6710,7 @@
     "Handheld": "Bazooka",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "AMX-011C",
     "Official Name": "Zaku III Late Type\u30b6\u30afIII\u5f8c\u671f\u578b",
@@ -6733,7 +6733,7 @@
     "Handheld": "Bazooka",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Prototype Assault Ground Mobile Suit",
     "Model Number": "AMX-011C",
     "Official Name": "Zaku III Late Type Land Use",
@@ -6745,7 +6745,7 @@
     "Handheld": "Bazooka",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "AMX-012",
     "Official Name": "Guza\u30b0\u30b6",
@@ -6754,7 +6754,7 @@
     "Operator": "Neo ZeonNewborn Neo Zeon",
     "Fixed": "Shield-2 x Beam GunBeam Saber",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype Assault Mobile Suit",
     "Model Number": "AMX-013",
     "Official Name": "Zssa Dain\u30ba\u30b5\u30fb\u30c0\u30a4\u30f3",
@@ -6765,7 +6765,7 @@
     "Known Pilots": "Alvenica Kiest",
     "Fixed": "2 x Beam saber2 x Missile launcher2-barrel beam cannon",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype Transformable Mobile Suit",
     "Official Name": "Gaza-W\u30ac\u30b6W",
     "Manufacturer": "Neo Zeon ",
@@ -6775,7 +6775,7 @@
     "Fixed": "2 x Shield binderBeam rifle",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Prototype Assault Mobile Suit",
     "Model Number": "AMX-102C",
     "Official Name": "Zssa Kai\u30ba\u30b5\u6539",
@@ -6797,7 +6797,7 @@
     "Handheld": " Ak-90S Attack Booster Pack3-Barrel Beam Gun12-Tube Missile Pod",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Classification": "Prototype Close Quarters Combat Mobile Suit",
     "Model Number": "AMX-121",
     "Official Name": "Quel Doga\u30af\u30a7\u30eb\u30fb\u30c9\u30fc\u30ac",
@@ -6806,7 +6806,7 @@
     "Operator": "Neo ZeonNewborn Neo Zeon",
     "Fixed": "Heat BladeBeam Rifle",
     "Manga": "UTG: DF"
-},{
+}{
     "Classification": "Prototype Newtype-use Mobile Suit",
     "Model Number": "MSN-X4",
     "Official Name": "Bagwi Doga\u30d0\u30ae\u30fb\u30c9\u30fc\u30ac",
@@ -6830,14 +6830,14 @@
     "Remote": "2 x Bee Bit (Mobile Bit \"Wilton\" and \"Wiltino\")8 x Spoon Bit (Pixel)",
     "Manga": "UTG: DF",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Publisher": "Kadokawa Shoten ",
     "Magazine": "Newtype Magazine",
     "Story & Script": "Yoshiyuki Tomino ",
     "Character Design": "Hiroyuki Kitazume ",
     "Mechanical Designer": "Mamoru Ito",
     "Japanese": "April 1987 \u2014 December 1991"
-},{
+}{
     "Classification": "Mass Production Reconnaissance Man-Machine",
     "Official Name": "Dochadi\u30c9\u30cf\u30c7\u30a3",
     "Head Height": "20.0 m65.617\u00a0ft 787.402\u00a0in ",
@@ -6847,7 +6847,7 @@
     "Operator": "Metatron",
     "Fixed": "1 x Beam Rifle1 x Beam Saber",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production General-Purpose Man-Machine",
     "Official Name": "Dochadi Dh-3b\u30c9\u30cf\u30c7\u30a3Dh-3b",
     "Head Height": "20 m65.617\u00a0ft 787.402\u00a0in ",
@@ -6858,13 +6858,13 @@
     "Fixed": "1 x Vulcan Gun1 x Beam Rifle1 x Beam Saber1 x Sand BarrelShield (w/ missiles)",
     "Handheld": "Long Drive Unit",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production General-Purpose Man-Machine",
     "Official Name": "Gaiyas\u30ac\u30a4\u30e4\u30b9",
     "Known Pilots": "Joe Sleng",
     "Fixed": "1 x beam rifle2 x beam saber",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "General-Purpose Mobile Suit",
     "Model Number": "RX-110",
     "Official Name": "Zorin Soul\u30be\u30fc\u30ea\u30f3\u30fb\u30bd\u30fc\u30eb",
@@ -6879,7 +6879,7 @@
     "Effective Sensor Radius": "18000 m59,055.118\u00a0ft ",
     "Manufacturer": "Anaheim Electronics ",
     "First Deployment": "110 U.C."
-},{
+}{
     "Classification": "Refined General-Purpose Man-Machine",
     "Model Number": "RX-110",
     "Official Name": "Zorin Soul\u30be\u30fc\u30ea\u30f3\u30fb\u30bd\u30fc\u30eb",
@@ -6900,7 +6900,7 @@
     "Handheld": "Pak43A Electro-Chemical GunZorin Soul-Shield",
     "Remote": "6 x Zorin-Funnel (4 x on body, 2 x on Zorin Soul Shield)",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Prototype General-Purpose Man-Machine",
     "Official Name": "Bromb Texter Pre-Production Type \"Zero\"",
     "Operator": "Man Hunting Attachment",
@@ -6909,7 +6909,7 @@
     "Fixed": " Beam rifle2 x Beam saber Shield Missiles",
     "Handheld": " Hyper beam launcher",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production Transformable General-Purpose Man-Machine",
     "Official Name": "Bromb Texter Production Type\u30d6\u30ed\u30f3\u30fb\u30c6\u30af\u30b9\u30bf\u30fc\u91cf\u7523\u578b",
     "Head Height": "24.0 m78.74\u00a0ft 944.882\u00a0in ",
@@ -6922,7 +6922,7 @@
     "Handheld": " Interdict board",
     "Novel": "Gaia Gear",
     "Mechanical Designer": "Mamoru Ito"
-},{
+}{
     "Classification": "Mass Production General-Purpose Man-Machine",
     "Official Name": "Bromb Texter Improved Type\u30d6\u30ed\u30f3\u30fb\u30c6\u30af\u30b9\u30bf\u30fc\u6539\u826f\u578b",
     "Overall Height": "24 m78.74\u00a0ft 944.882\u00a0in ",
@@ -6934,7 +6934,7 @@
     "Fixed": " Sand Barrel beam rifle beam saber2 x shield6 x shield funnels",
     "Handheld": " Crosswise set mega particle beam gun",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production Heavy General-Purpose Man-Machine",
     "Official Name": "Gids Geese\u30ae\u30c3\u30ba\u30fb\u30ae\u30fc\u30b9",
     "Head Height": "24.6 m80.709\u00a0ft 968.504\u00a0in ",
@@ -6946,7 +6946,7 @@
     "Standard": "I-field Generator",
     "Fixed": "Beam LauncherBeam SaberBeam CannonSand BarrelBarrel MissileFunnels",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production General-Purpose Man-Machine",
     "Model Number": "UM-190B.I",
     "Official Name": "Gussa\u30ac\u30a6\u30c3\u30b5",
@@ -6963,7 +6963,7 @@
     "Fixed": "2 x Sand barrel2 x Beam saber Beam rifle Shield Beam cutter",
     "Handheld": " Mega beam launcher Long drive unit Minovsky drive unit",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production General-Purpose Man-Machine",
     "Model Number": "UM-190B.II",
     "Official Name": "Gussa Improved Performance Type\u30ac\u30a6\u30c3\u30b5",
@@ -6981,7 +6981,7 @@
     "Fixed": "2 x Sand Barrel2 x Beam SaberBeam RifleShield-Beam Cutter",
     "Handheld": "MBR-196 Mega Beam Launcher",
     "Novel": "Gaia Gear"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-89",
     "Official Name": "Jegan\u30b8\u30a7\u30ac\u30f3",
@@ -7011,7 +7011,7 @@
     "Novel": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
     "Game": "Mobile Suit Gundam: The Return of ZeonMobile Suit Gundam: Extreme Vs.Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Transformable General-Purpose Mobile Suit",
     "Model Number": "RGZ-91",
     "Official Name": "Re-GZ\u30ea\u30fb\u30ac\u30ba\u30a3",
@@ -7043,7 +7043,7 @@
     "Novel": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Newtype-use General-Purpose Mobile Suit",
     "Model Number": "RX-93",
     "Official Name": "\u03bd Gundam\u03bd\u30ac\u30f3\u30c0\u30e0",
@@ -7074,7 +7074,7 @@
     "Novel": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New Dawn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Civilian-use Mobile Suit",
     "Model Number": "RMS-116H",
     "Official Name": "Hobby Hizack\u30db\u30d3\u30fc\u30fb\u30cf\u30a4\u30b6\u30c3\u30af",
@@ -7092,7 +7092,7 @@
     "Manga": "Advance of Zeta Re-Boot: Gundam Inle",
     "Novel": "Mobile Suit Gundam Unicorn (Novel)",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "AMS-119",
     "Official Name": "Geara Doga\u30ae\u30e9\u30fb\u30c9\u30fc\u30ac",
@@ -7124,7 +7124,7 @@
     "Novel": "Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornMobile Suit Gundam Side Story: Missing Link",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Limited Production Newtype-use Assault Mobile Suit",
     "Model Number": "MSN-03",
     "Official Name": "Jagd Doga\u30e4\u30af\u30c8\u30fb\u30c9\u30fc\u30ac",
@@ -7155,7 +7155,7 @@
     "Manga": "MSG 0099: MCUC: TNSUTG: DF",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "MSN-04",
     "Official Name": "Sazabi\u30b5\u30b6\u30d3\u30fc",
@@ -7187,7 +7187,7 @@
     "Manga": "MSG-CC (M)MSG-TA (M)",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam RebornGundam: The Battle MasterGundam Battle AssaultGundam Battle Assault 2MS Saga: A New Dawn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Space Mobile Armor",
     "Model Number": "NZ-333",
     "Official Name": "\u03b1 Azieru\u03b1\u30fb\u30a2\u30b8\u30fc\u30eb",
@@ -7216,9 +7216,9 @@
     "OVA": "Evolve",
     "Game": "Dynasty Warriors Gundam 2Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Japanese": "1983 \u2014 ongoing"
-},{
+}{
     "Classification": "Mass Production Anti-Ship Assault Mobile Suit",
     "Model Number": "RGM-89S",
     "Official Name": "Stark Jegan\u30b9\u30bf\u30fc\u30af\u30b8\u30a7\u30ac\u30f3",
@@ -7244,7 +7244,7 @@
     "Game": "Mobile Suit Gundam Unicorn (Game)",
     "Variation": "Char's Counterattack Mobile Suit Variations",
     "Mechanical Designer": "Mika Akitaka (CCA-MSV)Hajime Katoki (Unicorn)"
-},{
+}{
     "Classification": "Prototype Newtype-use General-Purpose Mobile Suit",
     "Model Number": "FA-93HWS",
     "Official Name": "\u03bd Gundam Heavy Weapons System Type\u03bd\u30ac\u30f3\u30c0\u30e0 \u30d8\u30d3\u30fc\u30fb\u30a6\u30a8\u30dd\u30f3\u30fb\u30b7\u30b9\u30c6\u30e0\u88c5\u5099\u578b",
@@ -7269,7 +7269,7 @@
     "Remote": "6 x Fin Funnel",
     "Variation": "Char's Counterattack Mobile Suit Variations",
     "Mechanical Designer": "Yutaka Izubuchi"
-},{
+}{
     "Classification": "Prototype Transformable Assault Mobile Suit",
     "Model Number": "RGZ-91B",
     "Official Name": "Re-GZ Custom\u30ea\u30fb\u30ac\u30ba\u30a3\u30fb\u30ab\u30b9\u30bf\u30e0",
@@ -7290,7 +7290,7 @@
     "Handheld": "Beam Assault RifleShield (3 x Hand Grenade)",
     "Variation": "Char's Counterattack Mobile Suit Variations",
     "Mechanical Designer": "Mika Akitaka"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Mobile Suit",
     "Model Number": "NZ-222",
     "Official Name": "Psyco Doga\u30b5\u30a4\u30b3\u30fb\u30c9\u30fc\u30ac",
@@ -7308,7 +7308,7 @@
     "Fixed": "2 x Wired Psycommu Mega Arm (2 x Beam Gun)",
     "Remote": "6 x Funnel",
     "Variation": "Char's Counterattack Mobile Suit Variations"
-},{
+}{
     "Classification": "Prototype Newtype-use Assault Space Mobile Armor",
     "Model Number": "NZ-444",
     "Official Name": "\u03b2 Azieru\u03b2\u30fb\u30a2\u30b8\u30fc\u30eb",
@@ -7320,7 +7320,7 @@
     "Fixed": "2 x Wired Psycommu 5-barrel Mega Arm2 x Twin Mega Particle Cannon2 x 2-Tube Large Anti-Ship MissileHyper Mega Particle Cannon",
     "Remote": "10+ x Funnel",
     "Variation": "Char's Counterattack Mobile Suit Variations"
-},{
+}{
     "Classification": "Mass Production Heavy Weapon Mobile Suit",
     "Model Number": "AMS-119",
     "Official Name": "Geara Doga Heavy Weapons Type\u30ae\u30e9\u30fb\u30c9\u30fc\u30ac\u91cd\u88c5\u578b",
@@ -7345,7 +7345,7 @@
     "OVA": "MSG-UC",
     "Variation": "Char's Counterattack Mobile Suit Variations",
     "Mechanical Designer": "Mika Akitaka (CCA-MSV)Hajime Katoki (MSG-UC)"
-},{
+}{
     "Classification": "Prototype Commander-use General-Purpose Mobile Suit",
     "Model Number": "AMS-119S",
     "Official Name": "Geara Doga Kai\u30ae\u30e9\u30fb\u30c9\u30fc\u30ac\u6539",
@@ -7361,9 +7361,9 @@
     "Handheld": "Shield (Jegan's, 2 x Twin Missile Launcher)",
     "Variation": "Char's Counterattack Mobile Suit Variations",
     "Mechanical Designer": "Hitoshi Fukuchi"
-},{
+}{
     "Japanese": "1983 \u2014 ongoing"
-},{
+}{
     "Classification": "Mass Production Amphibious Mobile Suit",
     "Model Number": "RAG-79",
     "Official Name": "Aqua GM\u30a2\u30af\u30a2\u30fb\u30b8\u30e0",
@@ -7389,7 +7389,7 @@
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081Mobile Suit Gundam Side Story: Missing Link",
     "Variation": "M-MSVHarmony of Gundam",
     "Mechanical Designer": "Kunio Okawara (M-MSV)Hajime Katoki (Harmony)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Desert Mobile Suit",
     "Model Number": "RGM-79F",
     "Official Name": "Desert GM\u30c7\u30b6\u30fc\u30c8\u30fb\u30b8\u30e0",
@@ -7412,7 +7412,7 @@
     "Game": "Mobile Suit Gundam Side Story: Missing Link",
     "Variation": "Missing Mobile Suit Variations",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Artillery Mobile Suit",
     "Model Number": "RX-77-1A",
     "Official Name": "Guncannon A\u30ac\u30f3\u30ad\u30e3\u30ce\u30f3A",
@@ -7430,7 +7430,7 @@
     "Handheld": "Beam Rifle",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "RX-78-6",
     "Official Name": "Mudrock Gundam\u30ac\u30f3\u30c0\u30e06\u53f7\u6a5f\uff08\u30de\u30c9\u30ed\u30c3\u30af\uff09",
@@ -7455,7 +7455,7 @@
     "Game": "Mobile Suit Gundam: Zeonic FrontMobile Suit Gundam Side Story: Missing Link",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara (M-MSV)Keiichiro Katagiri (Zeonic Front)"
-},{
+}{
     "Classification": "Prototype General-Purpose Space Mobile Suit",
     "Model Number": "RX-78-7",
     "Official Name": "7th Gundam\u30ac\u30f3\u30c0\u30e07\u53f7\u6a5f",
@@ -7479,7 +7479,7 @@
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio OkawaraHajime Katoki"
-},{
+}{
     "Classification": "Prototype Full Armor Assault Space Mobile Suit",
     "Model Number": "FA-78-3",
     "Official Name": "Full Armor 7th Gundam\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u30ac\u30f3\u30c0\u30e07\u53f7\u6a5f",
@@ -7502,7 +7502,7 @@
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara (M-MSV)Hajime Katoki (0081)"
-},{
+}{
     "Classification": "Prototype Full Armor Heavy Assault Space Mobile Suit",
     "Model Number": "HFA-78-3 (FHA-78-3)",
     "Official Name": "Heavy Full Armor 7th Gundam\u91cd\u88c5\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u30ac\u30f3\u30c0\u30e0",
@@ -7524,7 +7524,7 @@
     "Game": "Mobile Suit Gundam: Battlefield Record U.C. 0081",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara (M-MSV)Hajime Katoki (Mobile Suit Gundam: Battlefield Record U.C. 0081)"
-},{
+}{
     "Classification": "Prototype Amphibious Mobile Suit",
     "Model Number": "MSM-02",
     "Official Name": "Hydro Test Type\u6c34\u4e2d\u5b9f\u9a13\u6a5f",
@@ -7544,7 +7544,7 @@
     "Manga": "AcguyHKS",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype General-Purpose Mobile Suit",
     "Model Number": "MS-04",
     "Official Name": "Prototype Zaku\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30fb\u30b6\u30af",
@@ -7566,7 +7566,7 @@
     "Manga": "Developers: Mobile Suit Gundam Before One Year War",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype High Mobility Mobile Suit",
     "Model Number": "MS-06R-3S",
     "Official Name": "High Mobility Type Zaku\u9ad8\u6a5f\u52d5\u578b\u30b6\u30afIIGelgoog Early Prototype\u30b2\u30eb\u30b0\u30b0\u5148\u884c\u8a66\u4f5c\u578b",
@@ -7588,7 +7588,7 @@
     "Handheld": "Beam Rifle",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Amphibious Mobile Suit",
     "Model Number": "MSM-03-1",
     "Official Name": "Prototype Gog\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30fb\u30b4\u30c3\u30b0",
@@ -7607,7 +7607,7 @@
     "Fixed": "2 x Torpedo Launcher Pod",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Full Armor Assault Mobile Suit",
     "Model Number": "FA-007GIII",
     "Official Name": "Full Armor Gundam Mk-III\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u30ac\u30f3\u30c0\u30e0Mk-III",
@@ -7630,7 +7630,7 @@
     "Manga": "UC0096LS",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Full Armor Mobile Suit",
     "Model Number": "FA-00100S",
     "Official Name": "Full Armor Hyaku Shiki Kai\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u767e\u5f0f\u6539",
@@ -7656,7 +7656,7 @@
     "Manga": "Mobile Suit Collection Comic SECRET FORMULAUC0096LSUC-Testament",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Ground Mobile Suit",
     "Model Number": "MSK-100S",
     "Official Name": "Land Combat Hyaku Shiki Kai\u9678\u6226\u7528\u767e\u5f0f\u6539",
@@ -7681,7 +7681,7 @@
     "Manga": "MSG-ZZ: MoZ",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Assault Mobile Suit",
     "Model Number": "RX-098",
     "Official Name": "Prototype Rick Dias\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u30fb\u30ea\u30c3\u30af\u30fb\u30c7\u30a3\u30a2\u30b9",
@@ -7704,7 +7704,7 @@
     "Manga": "MSZG Define",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Prototype Transformable General-Purpose Mobile Suit",
     "Model Number": "MSZ-009MSZ-009-1MSZ-009A",
     "Official Name": "Prototype ZZ Gundam\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u0396\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -7725,7 +7725,7 @@
     "Fixed": "2 x Wing Shield",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production Assault Mobile Suit",
     "Model Number": "MSZ-013",
     "Official Name": "Mass Production Type ZZ Gundam\u91cf\u7523\u578b\u0396\u0396\u30ac\u30f3\u30c0\u30e0",
@@ -7751,7 +7751,7 @@
     "Manga": "0094: AtS",
     "Variation": "M-MSV",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Producer": "Sunrise ",
     "Director": "Murase Osamu",
     "Story & Script": "Yasuyuki Mutou",
@@ -7760,7 +7760,7 @@
     "Art Director": "Takeki Nakamura",
     "Music": "Hiroyuki Sawano ",
     "Japanese": "July 23, 2020 "
-},{
+}{
     "Classification": "Mass Production Heavy Mobile Suit",
     "Model Number": "Me-02R",
     "Official Name": "Messer\u30e1\u30c3\u30b5\u30fc",
@@ -7781,7 +7781,7 @@
     "Movie": "Mobile Suit Gundam: Hathaway's Flash",
     "Novel": "Mobile Suit Gundam: Hathaway's Flash (Novel)",
     "Mechanical Designer": "Yasuhiro Moriki (Hathaway's Flash)Kazumi Fujita (SD Gundam G Generation)"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "FD-03",
     "Official Name": "Gustav Karl\u30b0\u30b9\u30bf\u30d5\u30fb\u30ab\u30fc\u30eb",
@@ -7805,7 +7805,7 @@
     "Manga": "F90FFGNT(M)",
     "Novel": "Mobile Suit Gundam: Hathaway's Flash (Novel)Gundam MS Graphica",
     "Mechanical Designer": "Yasuhiro Moriki (Novel)Kazumi Fujita (SD Gundam G Generation)Hajime Katoki (Mobile Suit Gundam Unicorn)Eiji Komatsu (Mobile Suit Gundam Narrative)"
-},{
+}{
     "Classification": "Prototype Transformable General-Purpose Mobile Suit",
     "Model Number": "RX-104FF (Penelope)RX-104 (Odysseus Gundam)",
     "Official Name": "Penelope\u30da\u30fc\u30cd\u30ed\u30da\u30fc\u30aa\u30c7\u30e5\u30c3\u30bb\u30a6\u30b9 \u30ac\u30f3\u30c0\u30e0",
@@ -7830,7 +7830,7 @@
     "Movie": "Mobile Suit Gundam: Hathaway's Flash",
     "Novel": "Mobile Suit Gundam: Hathaway's Flash (Novel)",
     "Mechanical Designer": "Yasuhiro Moriki (MSG: HF)Kazumi Fujita (SDG GGen)"
-},{
+}{
     "Producer": "Shochiku FilmSotsu Agency Sunrise ",
     "English Dub": "Bang Zoom! Entertainment ",
     "Director": "Yoshiyuki Tomino ",
@@ -7839,7 +7839,7 @@
     "Mechanical Designer": "Kunio Okawara ",
     "Music": "Satoshi Kadokura",
     "Japanese": "March 16, 1991 "
-},{
+}{
     "Classification": "Mass Production Artillery Mobile Suit",
     "Model Number": "F71",
     "Official Name": "G-CannonG\u30ad\u30e3\u30ce\u30f3",
@@ -7862,7 +7862,7 @@
     "Movie": "Mobile Suit Gundam F91",
     "Game": "Mobile Suit Gundam F91: Formula Report 0122",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Limited Production Attack-Use Mobile Suit",
     "Model Number": "F91",
     "Official Name": "Gundam F91\u30ac\u30f3\u30c0\u30e0F91",
@@ -7891,7 +7891,7 @@
     "Manga": "MSCGMSCG: SHMSCG: S7EX AF91 (M)F91P",
     "Game": "Mobile Suit Gundam F91: Formula Report 0122Mobile Suit Gundam Climax U.C.Mobile Suit Gundam: Extreme Vs.Dynasty Warriors Gundam 2Dynasty Warriors Gundam 3Dynasty Warriors Gundam Reborn",
     "Mechanical Designer": "Kunio Okawara"
-},{
+}{
     "Classification": "Mass Production General-Purpose Mobile Suit",
     "Model Number": "RGM-89J",
     "Official Name": "Jegan Normal Type\u30b8\u30a7\u30ac\u30f3\u30ce\u30fc\u30de\u30eb\u30bf\u30a4\u30d7",
@@ -7913,4 +7913,4 @@
     "Movie": "Mobile Suit Gundam F91",
     "Manga": "MSCGF90MSG-SF91F90FFF91 (M)",
     "Game": "Mobile Suit Gundam F91: Formula Report 0122"
-},]
+}]
