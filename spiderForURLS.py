@@ -3,7 +3,6 @@ import urllib
 import re
 import json
 from bs4 import BeautifulSoup
-import time
 
 #initial Beautiful Soup data
 url = 'https://gundam.fandom.com/wiki/List_of_Mobile_Weapons'
@@ -36,30 +35,3 @@ for item in urlList:
 
 f.close()
 print('write complete')
-
-
-
-# #Sample page to test data extraction
-
-# f = open('data.txt', 'w')
-# j = 200
-# while j < 205:
-
-#     print(urlList2[j])
-
-#     newPage = urllib.request.urlopen(urlList2[j])
-
-#     newSoup = BeautifulSoup(newPage, features='lxml')
-
-#     infoIwant = newSoup.find_all("div", class_="pi-data-value", recursive=True)
-    
-#     for item in infoIWant:
-#         f.write(str(item) + '\r\n\r\n\r\n')
-
-#     print(j)
-#     j += 1
-#     time.sleep(5)
-
-
-# f.close()
-# print('write complete')
